@@ -94,6 +94,11 @@ angular.module('todo', ['ionic'])
 
   $scope.newTask = function() {
     $scope.taskModal.show();
+    
+    // var xmlDoc=document.implementation.createDocument("123.xml","",null);
+    // xmlDoc.async="false";
+    // //xmlDoc.load("123.xml");
+    // x=xmlDoc.documentElement.childNodes;
   };
 
   $scope.closeNewTask = function() {
