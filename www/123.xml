@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MyLifeOrganized-xml ver="1.2">
+  <TaskTree>
+    <TaskNode Caption="">
+      <Created>2016-04-21T14:13:10</Created>
+      <TaskNode Caption="&lt;Inbox&gt;">
+        <HideInToDoThisTask>-1</HideInToDoThisTask>
+        <Created>2016-04-21T14:13:47</Created>
+      </TaskNode>
+      <TaskNode Caption="公司">
+        <IsProject>-1</IsProject>
+        <Places>
+          <Place>-程相羽</Place>
+        </Places>
+        <Created>2016-04-21T16:35:52</Created>
+        <TaskNode Caption="会议规范与记录">
+          <DueDateTime>2016-05-04T00:00:00</DueDateTime>
+          <StartDateTime>2016-04-25T00:00:00</StartDateTime>
+          <LeadTime>9</LeadTime>
+          <ScheduleType>1</ScheduleType>
+          <Places>
+            <Place>-王曙天</Place>
+          </Places>
+          <Created>2016-04-22T12:05:28</Created>
+        </TaskNode>
+        <TaskNode Caption="工作流程">
+          <EstimateMin>1.708333333</EstimateMin>
+          <EstimateMax>1.708333333</EstimateMax>
+          <DueDateTime>2016-05-05T00:00:00</DueDateTime>
+          <LeadTime>0</LeadTime>
+          <NextReviewDate>2016-05-03T00:00:00</NextReviewDate>
+          <ScheduleType>1</ScheduleType>
+          <IsProject>-1</IsProject>
+          <Places>
+            <Place>-王曙天</Place>
+          </Places>
+          <Created>2016-04-21T14:33:29</Created>
+          <TaskNode Caption="测试流程变更知会">
+            <DueDateTime>2016-04-25T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-黄振光</Place>
+            </Places>
+            <Created>2016-04-22T14:09:04</Created>
+          </TaskNode>
+          <TaskNode Caption="测试组工作流程与清单">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+周四下午 2版清单文档
+周三上午 初建清单文档
+</Note>
+            <DueDateTime>2016-04-15T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-15T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-黄振光</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="运营时问题处理流程">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+完成第一版
+</Note>
+            <DueDateTime>2016-04-15T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-15T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="制定满足亡灵合同规定的要求相关流程">
+            <IDD>{B79AA9DF-4486-442E-9352-2EC29C40A4F0}</IDD>
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+对合同做细研
+</Note>
+            <DueDateTime>2016-05-13T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+            <TaskNode Caption="第一步准备与思考大纲">
+              <DueDateTime>2016-05-03T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-王曙天</Place>
+              </Places>
+              <Created>2016-04-27T13:23:04</Created>
+            </TaskNode>
+          </TaskNode>
+          <TaskNode Caption="制作完善计划">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+第1，2，3…阶段的目标与产出 目标：
+1.满足内部自运营与研发 
+2.满足代理合作的工作正常进行 
+3.追求完善 
+4.追求 
+行业先进 
+产出： 
+1.测试组工作流程与清单 
+2.运营时问题处理流程 
+3.制定满足合同规定的要求相关流程
+</Note>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Dependency>
+              <UID>{B79AA9DF-4486-442E-9352-2EC29C40A4F0}</UID>
+            </Dependency>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+        </TaskNode>
+        <TaskNode Caption="管理">
+          <Places>
+            <Place>-王曙天</Place>
+          </Places>
+          <Created>2016-04-26T10:08:27</Created>
+          <TaskNode Caption="MLO如何提升日常工作与周总结效率">
+            <DueDateTime>2016-04-29T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-26T10:08:31</Created>
+            <TaskNode Caption="思考什么样的软件可以提升我的工作效率">
+              <DueDateTime>2016-04-27T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-王曙天</Place>
+              </Places>
+              <Created>2016-04-27T13:25:38</Created>
+            </TaskNode>
+            <TaskNode Caption="尝试制作MVP进行验证">
+              <Places>
+                <Place>-王曙天</Place>
+              </Places>
+              <Created>2016-04-27T13:26:48</Created>
+            </TaskNode>
+          </TaskNode>
+        </TaskNode>
+      </TaskNode>
+      <TaskNode Caption="王座">
+        <IsProject>-1</IsProject>
+        <Places>
+          <Place>-王曙天</Place>
+        </Places>
+        <Created>2016-04-21T14:33:29</Created>
+        <TaskNode Caption="虚假繁荣">
+          <EstimateMin>6.291666667</EstimateMin>
+          <EstimateMax>6.291666667</EstimateMax>
+          <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+          <StartDateTime>2016-04-12T00:00:00</StartDateTime>
+          <LeadTime>24</LeadTime>
+          <NextReviewDate>2016-04-25T00:00:00</NextReviewDate>
+          <ScheduleType>1</ScheduleType>
+          <TheGoal>1</TheGoal>
+          <IsProject>-1</IsProject>
+          <Places>
+            <Place>-王曙天</Place>
+          </Places>
+          <Created>2016-04-21T14:33:29</Created>
+          <TaskNode Caption="繁荣表现方式">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <DueDateTime>2016-05-03T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-钟军</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="完成机器人程序框架">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+周四上午确定 周三下午4点 框架完成
+</Note>
+            <DueDateTime>2016-04-15T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-15T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-周渝</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="制作机器人AI需求">
+            <EstimateMin>2.958333333</EstimateMin>
+            <EstimateMax>2.958333333</EstimateMax>
+            <DueDateTime>2016-04-22T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-12T00:00:00</StartDateTime>
+            <LeadTime>10</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-李志纯</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+            <TaskNode Caption="条件-行为">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <DueDateTime>2016-04-12T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-12T00:00:00</StartDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-李志纯</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="上下线时间">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <DueDateTime>2016-04-22T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-22T00:00:00</StartDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-李志纯</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="条件优先级">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <DueDateTime>2016-04-22T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-22T00:00:00</StartDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-李志纯</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+          </TaskNode>
+          <TaskNode Caption="实现机器人AI">
+            <EstimateMin>1.291666667</EstimateMin>
+            <EstimateMax>1.291666667</EstimateMax>
+            <Note>
+周四上午确定目标：充VIP，十连，战斗
+</Note>
+            <DueDateTime>2016-04-29T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-22T00:00:00</StartDateTime>
+            <LeadTime>7</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-周渝</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+            <TaskNode Caption="框架讲解与任务分离">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <Note>
+后续大量的工作内容分离到不同的人员身上去
+</Note>
+              <DueDateTime>2016-04-22T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-22T00:00:00</StartDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-周渝</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="DEMO">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <Note>
+充VIP，十连，战斗
+</Note>
+              <DueDateTime>2016-04-22T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-22T00:00:00</StartDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-周渝</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="任务1…n">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <Note>
+由于工作量是1周左右，所以独立完成
+</Note>
+              <DueDateTime>2016-04-29T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-周渝</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+          </TaskNode>
+          <TaskNode Caption="机器人管理器">
+            <EstimateMin>3.291666667</EstimateMin>
+            <EstimateMax>3.291666667</EstimateMax>
+            <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-25T00:00:00</StartDateTime>
+            <LeadTime>11</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-周渝</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+            <TaskNode Caption="机器人使用需求">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <DueDateTime>2016-04-26T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-郑晧洋</Place>
+                <Place>-王曙天</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="管理器开发">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+              <StartDateTime>2016-05-06T00:00:00</StartDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-周渝</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="逼真的名字">
+              <DueDateTime>2016-05-12T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-25T00:00:00</StartDateTime>
+              <LeadTime>17</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-郑晧洋</Place>
+              </Places>
+              <Created>2016-04-26T09:57:39</Created>
+            </TaskNode>
+          </TaskNode>
+        </TaskNode>
+        <TaskNode Caption="ARPU">
+          <EstimateMin>3.291666667</EstimateMin>
+          <EstimateMax>3.291666667</EstimateMax>
+          <LeadTime>0</LeadTime>
+          <NextReviewDate>2016-04-25T00:00:00</NextReviewDate>
+          <ScheduleType>1</ScheduleType>
+          <TheGoal>2</TheGoal>
+          <IsProject>-1</IsProject>
+          <Places>
+            <Place>-郑晧洋</Place>
+          </Places>
+          <Created>2016-04-21T14:33:29</Created>
+          <TaskNode Caption="制作具体的ARPU方案 @钟军">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+周四确定的是方向，接下来是可以真正制作的方案
+</Note>
+            <DueDateTime>2016-04-18T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-18T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-钟军</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="确定另一个方向提升ARPU的方案">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+通过开坑，使LTV上升：最低15，目标20
+</Note>
+            <DueDateTime>2016-04-18T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-18T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-郑晧洋</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="星座守护卡策划案">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+钟军先制作该方案，再讨论确定方案可行性，最终转向研发
+</Note>
+            <CompleteSubTasksInOrder>-1</CompleteSubTasksInOrder>
+            <DueDateTime>2016-04-29T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <TheGoal>1</TheGoal>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-钟军</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+            <TaskNode Caption="制作初版">
+              <DueDateTime>2016-04-21T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-21T00:00:00</StartDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-钟军</Place>
+              </Places>
+              <Created>2016-04-21T18:46:04</Created>
+            </TaskNode>
+            <TaskNode Caption="确定应用范围、战力影响">
+              <DueDateTime>2016-04-25T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-21T00:00:00</StartDateTime>
+              <LeadTime>4</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-钟军</Place>
+              </Places>
+              <Created>2016-04-21T18:44:32</Created>
+            </TaskNode>
+            <TaskNode Caption="确定十二种玩法">
+              <DueDateTime>2016-04-26T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-21T00:00:00</StartDateTime>
+              <LeadTime>5</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-钟军</Place>
+              </Places>
+              <Created>2016-04-21T18:45:17</Created>
+            </TaskNode>
+            <TaskNode Caption="确定战斗表现形式">
+              <Places>
+                <Place>-钟军</Place>
+              </Places>
+              <Created>2016-04-26T15:26:02</Created>
+            </TaskNode>
+            <TaskNode Caption="审核需求案">
+              <Places>
+                <Place>-程相羽</Place>
+              </Places>
+              <Created>2016-04-27T15:43:01</Created>
+            </TaskNode>
+            <TaskNode Caption="制作详细策划案">
+              <DueDateTime>2016-04-29T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-钟军</Place>
+              </Places>
+              <Created>2016-04-27T15:47:05</Created>
+            </TaskNode>
+          </TaskNode>
+          <TaskNode Caption="确定提升ARPU修改方案">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+周四下午 《提升ARUP会议内容》
+</Note>
+            <DueDateTime>2016-04-14T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-14T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-郑晧洋</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="4英雄">
+            <EstimateMin>3.291666667</EstimateMin>
+            <EstimateMax>3.291666667</EstimateMax>
+            <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-11T00:00:00</StartDateTime>
+            <LeadTime>25</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-钟军</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+            <TaskNode Caption="雅典娜原画修改">
+              <DueDateTime>2016-05-03T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-11T00:00:00</StartDateTime>
+              <LeadTime>22</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-徐晓康</Place>
+              </Places>
+              <Created>2016-04-25T10:50:09</Created>
+              <TaskNode Caption="完成第一版">
+                <DueDateTime>2016-04-18T00:00:00</DueDateTime>
+                <StartDateTime>2016-04-11T00:00:00</StartDateTime>
+                <LeadTime>7</LeadTime>
+                <ScheduleType>1</ScheduleType>
+                <Places>
+                  <Place>-徐晓康</Place>
+                </Places>
+                <Created>2016-04-25T10:53:03</Created>
+              </TaskNode>
+              <TaskNode Caption="确认3个换颜色的原画是否满足需求">
+                <DueDateTime>2016-04-25T00:00:00</DueDateTime>
+                <StartDateTime>2016-04-11T00:00:00</StartDateTime>
+                <LeadTime>14</LeadTime>
+                <ScheduleType>1</ScheduleType>
+                <Places>
+                  <Place>-郑晧洋</Place>
+                </Places>
+                <Created>2016-04-25T10:53:18</Created>
+              </TaskNode>
+              <TaskNode Caption="雅典娜的杖">
+                <DueDateTime>2016-04-26T00:00:00</DueDateTime>
+                <StartDateTime>2016-04-11T00:00:00</StartDateTime>
+                <LeadTime>15</LeadTime>
+                <ScheduleType>1</ScheduleType>
+                <Places>
+                  <Place>-郑晧洋</Place>
+                </Places>
+                <Created>2016-04-25T18:09:03</Created>
+              </TaskNode>
+            </TaskNode>
+            <TaskNode Caption="模型制作">
+              <DueDateTime>2016-05-04T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-11T00:00:00</StartDateTime>
+              <LeadTime>23</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-徐晓康</Place>
+              </Places>
+              <Created>2016-04-25T10:50:38</Created>
+              <TaskNode Caption="制作雅典娜">
+                <DueDateTime>2016-05-04T00:00:00</DueDateTime>
+                <StartDateTime>2016-04-11T00:00:00</StartDateTime>
+                <LeadTime>23</LeadTime>
+                <ScheduleType>1</ScheduleType>
+                <Places>
+                  <Place>-徐晓康</Place>
+                </Places>
+                <Created>2016-04-25T10:54:03</Created>
+              </TaskNode>
+              <TaskNode Caption="另三个换颜色模型">
+                <Places>
+                  <Place>-徐晓康</Place>
+                </Places>
+                <Created>2016-04-25T10:54:14</Created>
+              </TaskNode>
+            </TaskNode>
+            <TaskNode Caption="应用到游戏并验收">
+              <DueDateTime>2016-05-04T00:00:00</DueDateTime>
+              <StartDateTime>2016-04-11T00:00:00</StartDateTime>
+              <LeadTime>23</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-钟军</Place>
+              </Places>
+              <Created>2016-04-25T10:56:39</Created>
+            </TaskNode>
+          </TaskNode>
+        </TaskNode>
+        <TaskNode Caption="吸量">
+          <EstimateMin>4</EstimateMin>
+          <EstimateMax>4</EstimateMax>
+          <DueDateTime>2016-05-20T00:00:00</DueDateTime>
+          <StartDateTime>2016-04-14T00:00:00</StartDateTime>
+          <LeadTime>36</LeadTime>
+          <ScheduleType>1</ScheduleType>
+          <IsProject>-1</IsProject>
+          <Places>
+            <Place>-郑晧洋</Place>
+          </Places>
+          <Created>2016-04-21T14:33:29</Created>
+          <TaskNode Caption="图标">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>可能需要5天时间才能完成，有星巴克版与3D版
+</Note>
+            <DueDateTime>2016-05-10T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-徐晓康</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="截图">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+截图
+</Note>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-郑晧洋</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+            <TaskNode Caption="明确设计方向">
+              <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-郑晧洋</Place>
+              </Places>
+              <Created>2016-04-27T17:22:37</Created>
+            </TaskNode>
+            <TaskNode Caption="制作截图">
+              <DueDateTime>2016-05-20T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-徐晓康</Place>
+              </Places>
+              <Created>2016-04-27T17:23:05</Created>
+            </TaskNode>
+          </TaskNode>
+          <TaskNode Caption="视频">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+找参考
+</Note>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-郑晧洋</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+            <TaskNode Caption="明确设计方向">
+              <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-郑晧洋</Place>
+              </Places>
+              <Created>2016-04-27T17:23:15</Created>
+            </TaskNode>
+            <TaskNode Caption="制作视频">
+              <DueDateTime>2016-05-31T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-徐晓康</Place>
+              </Places>
+              <Created>2016-04-27T17:23:20</Created>
+            </TaskNode>
+          </TaskNode>
+          <TaskNode Caption="名字">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+周四下午 名字确定会议
+</Note>
+            <DueDateTime>2016-04-14T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-14T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-郑晧洋</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="著作权">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+海哥会处理的很好
+确定是否有进展
+</Note>
+            <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-郑晧洋</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="改名字">
+            <DueDateTime>2016-04-26T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-14T00:00:00</StartDateTime>
+            <LeadTime>12</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-程相羽</Place>
+            </Places>
+            <Created>2016-04-25T18:19:12</Created>
+          </TaskNode>
+        </TaskNode>
+        <TaskNode Caption="多版本">
+          <EstimateMin>0.333333333</EstimateMin>
+          <EstimateMax>0.333333333</EstimateMax>
+          <DueDateTime>2016-05-23T00:00:00</DueDateTime>
+          <StartDateTime>2016-05-20T00:00:00</StartDateTime>
+          <LeadTime>3</LeadTime>
+          <ScheduleType>1</ScheduleType>
+          <IsProject>-1</IsProject>
+          <Places>
+            <Place>-王曙天</Place>
+          </Places>
+          <Created>2016-04-21T14:33:29</Created>
+          <TaskNode Caption="首次讨论-国内安卓、国外安卓、iOS">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+自己先考虑一下，做一个方案
+</Note>
+            <DueDateTime>2016-05-23T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+        </TaskNode>
+        <TaskNode Caption="版本升级">
+          <EstimateMin>6.625</EstimateMin>
+          <EstimateMax>6.625</EstimateMax>
+          <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+          <StartDateTime>2016-04-11T00:00:00</StartDateTime>
+          <LeadTime>25</LeadTime>
+          <ScheduleType>1</ScheduleType>
+          <IsProject>-1</IsProject>
+          <Places>
+            <Place>-王曙天</Place>
+          </Places>
+          <Created>2016-04-21T14:33:29</Created>
+          <TaskNode Caption="英雄觉醒">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+等待确定策划案
+</Note>
+            <DueDateTime>2016-05-10T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-钟军</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="跨服战">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+等待确定策划案
+</Note>
+            <DueDateTime>2016-05-10T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-钟军</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="切换到Unity5">
+            <EstimateMin>3.333333333</EstimateMin>
+            <EstimateMax>3.333333333</EstimateMax>
+            <Note>
+正在处理特效变长BUG
+</Note>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-王志强</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+            <TaskNode Caption="APK打包">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <Note>第一个简单版本已经完成，接下来看时间安排，只要有空就可以去处理这个事情，大概需要2天时间
+</Note>
+              <DueDateTime>2016-05-10T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-王志强</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="特效打包有时无效">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <DueDateTime>2016-04-29T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-罗迪</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="场景显示过黑过白">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-吕雪梅</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="部分手机崩溃">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <DueDateTime>2016-04-29T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-罗迪</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="稳定测试">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <Note>
+确保真的可用
+</Note>
+              <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-黄振光</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+          </TaskNode>
+          <TaskNode Caption="主城">
+            <EstimateMin>1.625</EstimateMin>
+            <EstimateMax>1.625</EstimateMax>
+            <Note>
+与服务器同步
+</Note>
+            <DueDateTime>2016-04-15T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-11T00:00:00</StartDateTime>
+            <LeadTime>4</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-罗迪</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="各版本的目的">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+当前最重要的、最应该的 可能的方向：导量、留存、收入、口碑 与时俱进，没有短板？做出突破？
+</Note>
+            <DueDateTime>2016-05-09T00:00:00</DueDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+        </TaskNode>
+      </TaskNode>
+      <TaskNode Caption="战纪2">
+        <IsProject>-1</IsProject>
+        <Places>
+          <Place>-王曙天</Place>
+        </Places>
+        <Created>2016-04-21T16:35:41</Created>
+        <TaskNode Caption="DEMO">
+          <EstimateMin>3.333333333</EstimateMin>
+          <EstimateMax>3.333333333</EstimateMax>
+          <DueDateTime>2016-05-06T00:00:00</DueDateTime>
+          <StartDateTime>2016-04-18T00:00:00</StartDateTime>
+          <LeadTime>18</LeadTime>
+          <NextReviewDate>2016-04-25T00:00:00</NextReviewDate>
+          <ScheduleType>1</ScheduleType>
+          <TheGoal>1</TheGoal>
+          <IsProject>-1</IsProject>
+          <Places>
+            <Place>-王曙天</Place>
+          </Places>
+          <Created>2016-04-21T14:33:29</Created>
+          <TaskNode Caption="外围界面设计">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+需要考虑Unity+html5结合的方式
+</Note>
+            <DueDateTime>2016-04-18T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-18T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-程相羽</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="核心战斗设计">
+            <EstimateMin>0.291666667</EstimateMin>
+            <EstimateMax>0.291666667</EstimateMax>
+            <DueDateTime>2016-04-18T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-18T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-程相羽</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="英雄设计">
+            <EstimateMin>0.291666667</EstimateMin>
+            <EstimateMax>0.291666667</EstimateMax>
+            <DueDateTime>2016-04-18T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-18T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-程相羽</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="制作开发计划">
+            <EstimateMin>0.625</EstimateMin>
+            <EstimateMax>0.625</EstimateMax>
+            <DueDateTime>2016-04-20T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-19T00:00:00</StartDateTime>
+            <ScheduleType>1</ScheduleType>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="制作核心战斗规则">
+            <EstimateMin>3.291666667</EstimateMin>
+            <EstimateMax>3.291666667</EstimateMax>
+            <DueDateTime>2016-04-29T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-18T00:00:00</StartDateTime>
+            <LeadTime>11</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-钟俊昌</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="完善DEMO添加英雄">
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-29T14:35:52</Created>
+          </TaskNode>
+          <TaskNode Caption="Unity + html5 框架实现">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+强哥，王座的程序告一段落后，开展这个工作
+</Note>
+            <StartDateTime>2016-05-09T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="服务器开房、战斗同步">
+            <EstimateMin>2.333333333</EstimateMin>
+            <EstimateMax>2.333333333</EstimateMax>
+            <Note>
+完成基本流程，可以知会周渝制作框架
+</Note>
+            <DueDateTime>2016-04-29T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-21T00:00:00</StartDateTime>
+            <LeadTime>8</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-李武林</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+        </TaskNode>
+      </TaskNode>
+      <TaskNode Caption="亡灵">
+        <CompleteSubTasksInOrder>-1</CompleteSubTasksInOrder>
+        <LeadTime>0</LeadTime>
+        <ScheduleType>1</ScheduleType>
+        <IsProject>-1</IsProject>
+        <Places>
+          <Place>-王曙天</Place>
+        </Places>
+        <Created>2016-04-21T16:33:03</Created>
+        <TaskNode Caption="达成合作">
+          <EstimateMin>2.333333333</EstimateMin>
+          <EstimateMax>2.333333333</EstimateMax>
+          <CompleteSubTasksInOrder>-1</CompleteSubTasksInOrder>
+          <LeadTime>0</LeadTime>
+          <NextReviewDate>2016-04-25T00:00:00</NextReviewDate>
+          <ScheduleType>1</ScheduleType>
+          <IsProject>-1</IsProject>
+          <Places>
+            <Place>-程相羽</Place>
+          </Places>
+          <Created>2016-04-21T14:33:29</Created>
+          <TaskNode Caption="准备工作">
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <TheGoal>1</TheGoal>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-22T10:13:41</Created>
+            <TaskNode Caption="成本估算">
+              <EstimateMin>1.625</EstimateMin>
+              <EstimateMax>1.625</EstimateMax>
+              <Note>
+下周结束时 完成
+不做了，可能这次合作要黄。
+</Note>
+              <DueDateTime>2016-04-27T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-王曙天</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+            </TaskNode>
+            <TaskNode Caption="PVP制作评估">
+              <EstimateMin>0.333333333</EstimateMin>
+              <EstimateMax>0.333333333</EstimateMax>
+              <Note>
+找个时间与洪聊聊，太极熊猫 参考
+</Note>
+              <DueDateTime>2016-04-26T00:00:00</DueDateTime>
+              <LeadTime>0</LeadTime>
+              <ScheduleType>1</ScheduleType>
+              <Places>
+                <Place>-王曙天</Place>
+              </Places>
+              <Created>2016-04-21T14:33:29</Created>
+              <TaskNode Caption="程序制作分析">
+                <DueDateTime>2016-04-25T00:00:00</DueDateTime>
+                <LeadTime>0</LeadTime>
+                <ScheduleType>1</ScheduleType>
+                <Places>
+                  <Place>-王曙天</Place>
+                </Places>
+                <Created>2016-04-25T18:11:56</Created>
+              </TaskNode>
+              <TaskNode Caption="项目合同制作分析">
+                <Places>
+                  <Place>-王曙天</Place>
+                </Places>
+                <Created>2016-04-25T18:12:08</Created>
+              </TaskNode>
+            </TaskNode>
+          </TaskNode>
+          <TaskNode Caption="沟通合同细节">
+            <Note>
+周三早上
+</Note>
+            <DueDateTime>2016-04-13T00:00:00</DueDateTime>
+            <StartDateTime>2016-04-13T00:00:00</StartDateTime>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-程相羽</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="完成签约">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <Places>
+              <Place>-程相羽</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+        </TaskNode>
+        <TaskNode Caption="研发">
+          <IsProject>-1</IsProject>
+          <Places>
+            <Place>-王曙天</Place>
+          </Places>
+          <Created>2016-04-22T10:15:13</Created>
+          <TaskNode Caption="制作开发计划">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+确定后就开始，可能有很多文档需求去填
+</Note>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+          <TaskNode Caption="制作DEMO">
+            <EstimateMin>0.333333333</EstimateMin>
+            <EstimateMax>0.333333333</EstimateMax>
+            <Note>
+开始时间=签字并收到钱之后
+</Note>
+            <LeadTime>0</LeadTime>
+            <ScheduleType>1</ScheduleType>
+            <IsProject>-1</IsProject>
+            <Places>
+              <Place>-王曙天</Place>
+            </Places>
+            <Created>2016-04-21T14:33:29</Created>
+          </TaskNode>
+        </TaskNode>
+      </TaskNode>
+      <TaskNode Caption="战纪">
+        <StartDateTime>2016-06-30T00:00:00</StartDateTime>
+        <LeadTime>0</LeadTime>
+        <ScheduleType>1</ScheduleType>
+        <IsProject>-1</IsProject>
+        <ProjectStatus>2</ProjectStatus>
+        <Places>
+          <Place>-王曙天</Place>
+        </Places>
+        <Created>2016-04-21T16:35:34</Created>
+        <TaskNode Caption="说法">
+          <EstimateMin>0.333333333</EstimateMin>
+          <EstimateMax>0.333333333</EstimateMax>
+          <Note>
+品质是项目的有力基础与保证
+</Note>
+          <DueDateTime>2016-04-14T00:00:00</DueDateTime>
+          <LeadTime>0</LeadTime>
+          <ScheduleType>1</ScheduleType>
+          <Places>
+            <Place>-王曙天</Place>
+          </Places>
+          <Created>2016-04-21T14:33:29</Created>
+        </TaskNode>
+      </TaskNode>
+    </TaskNode>
+  </TaskTree>
+  <PConfig>
+    <i0>ProfileDate_Desktop=2016-04-21T14:13:10</i0>
+  </PConfig>
+  <PlacesList>
+    <TaskPlace Caption="-黄振光"/>
+    <TaskPlace Caption="-王志强"/>
+    <TaskPlace Caption="-钟军"/>
+    <TaskPlace Caption="-周渝"/>
+    <TaskPlace Caption="-王曙天"/>
+    <TaskPlace Caption="-程相羽"/>
+    <TaskPlace Caption="-钟俊昌"/>
+    <TaskPlace Caption="-罗迪"/>
+    <TaskPlace Caption="-庞哲"/>
+    <TaskPlace Caption="-李志纯"/>
+    <TaskPlace Caption="-郑晧洋"/>
+    <TaskPlace Caption="-李武林"/>
+    <TaskPlace Caption="-吕雪梅"/>
+    <TaskPlace Caption="-徐晓康"/>
+  </PlacesList>
+  <Flags>
+    <Flag Caption="Flag">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wAdWIeWHViH/x1Yh5YdWIcP////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AHViH/1ai1v84e6z/HViHeP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AB1Yh/9Wotb/RYy+/x1Yh7P///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAdWIfYTZfK/1ai1v8dWIf/////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AHViHiTyAsf9Wotb/HViH/////wD///8A////ACk4q5sWLtX1CiTs/gok6v4SJdj5KDSqxv///wD///8A////AB1Yh0Msa5z/VqLW/x1Yh/////8A////AP///wALKPfJlJv+/6Oo//+iqP//srb+/zVD+f8MIOz+S1XOzY+W+1hgauWeFh0y/1Oe1P8rapr/HViHPv///wD///8ADCrrspqg//xQW///SVP//3yD//+prv//wMT//5+m/P1UXfL2TVj5+15nwP9Wotb/On6w/x1Yh4P///8A////ABgvzYWPlv7xfYX//1xn//9eaP//hYz//6qw///f4P//vcH//7W5//+YmNH/VqLW/0aSx/8dWIfU////AP///wAkNbFQFyb74p2i//9UXv//V2D//4KK//+lqv//zdD//7e7//+aoP//k5TX8EKMwP99t9//HViH/////wD///8ALTmdJgwf+dKbov//UVz//1Bb//+Bif//n6T//8TH///Fyf//naP//3B18Pk1eaz/bq/b/x1Yh/////8A////ADM6jAsJJffDm6L//5+l//+boP//uLz//8jM//+2u///0dT//5+l//+VnP//NW6X/4/B5P8hX4//HViHGv///wA3PYYCByj1rgUm9foEJPX/BCH1/wMe9f+Tm/z/19r//+fo///Nz///x8r//6C0wP+GvOL/LnKk/x1Yh2L///8A////AP///wD///8A////AP///wD///8ACx7p/lFc+v/Lz/7/rLL+/zE+/P8uOdf/7/f7/zaEu/8dWIez////AP///wD///8A////AP///wD///8A////AD1DhhovOaixJzPE4SU1w+ArOKu1NGWInR1Yh/8dWIezHViHSv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</Flag>
+  </Flags>
+  <ToDoViewsRoot>
+    <ToDoView Name="Inbox">
+      <UI ActionFlt="4" UseHierarchy="true">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt/>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="1221"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="22"/>
+      </Columns>
+      <IcoData Caption="Inbox-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAhHx8FGhMRCiQsMExUbnugVWx4r1Bmcq1OZXOuUGZ0r1Jnda9NZXOuTmRyrlJmdK5WaXauU2l1rlNnc65UaHSuUmh0rlNodK1SZ3OtWnOAojRFTWQYFBMWIB4dC////wAiICAJEgQAAi5IVJKL1f7/hcTu/4C74v98td//fLji/3654v94st3/e7Pd/4O74v+Kwun/g77l/4a95P+Iwej/g77l/4bA5v+DuuL/k9f//09+lc8QCQUfIR8eEf///wAiIB8IEQUAAC1ETHmAwur/eLHa/3Onzf9uo8r/bKHI/3iv3P98sd3/c6nW/3qz3v+Bu+T/gb3o/4W84/93q9D/dKrP/3aq0P9yp8//gsLs/0x2ibsTDQgSIR8eDv///wAhHx4EFAsFADNKU2yKyO7/g7zj/3qv1f91rNL/erDX/3OgwP9wmrb/eqbB/4GrxP+Drsj/b5q2/3WkwP+Fu+D/f7Xa/3+02f96sNb/jcv1/091iLINBAABIiAfB////wAaEg4BMz9GAFaAlWqGvt//iMDm/4C02v99sNj/hL3j/157iv99gYL/oqeo/6Glpf+kqan/fH99/1Fzgv+Jxez/iL7j/4S42/+Dttr/ks3z/1mBlq0iJicAHxsZAf///wAZEQ0BNURKAFmFmWiGv97/jcbp/4O43P+AtNr/g73h/4Cfrv+7vLr/3eDg/8jMzP/Mzcz/v7+9/4CitP+DvOP/hrrf/4a53P+HuN3/kczx/2GNo6k3R04AHBUTAP///wAXEAwBOEZNAGKMnniRyOf/lMvr/5TI5f+Rxuj/drLa/6/M2v/39fL/1tXU/+3x7//y9/H/9fPo/6C/zv99uOD/l8rr/5bI5/+KvOD/pOD//2KHlr8WDAgAIR8eAP///wAXEAsBOERLAGeSqVaSvtP8osvi/3ylwf99oLX/osLU/8/Z5f+aoJj/T2lW/56lnv/9/f7////4/7fFzP+UtMX/fqO5/3+owv+bwdf/mcfg81RygH8bFhQAIB0cAv///wAfHRwBGBENAUpicQFnjaJQmLzP0oyyy/9YgZr/b4+p/1xra/9ok3D/l9iv/2OKav9fcHj/eqPE/36rv/9mipn/VnuT/4yxyP+WuMnHRFllODE/RgEgHRwBIB4dAv///wAgHh4AFQsHAEheawBfh50ATW19EX+gsZqNs9LsPmBp/1aJZ/+P06P/gMeU/43QoP9SgWH/R2l3/4e32uuAs837gqu++Xygsp9zlaYHQ1ZgABYTEgAgHR0BIB4dAf///wAgHh0AFQsHAExldABrl68AU3eKADM+UQA6R0WfeKh6/5vgrP9wuYT/Xahu/3W+if+b36z/c5tw/zc7O5aOrMUwlsLaO2SKoAB8nbAARlpmABkXFwAgHR0AIB4dAP///wAaExUAGRIRACUoJwAsMjUAICAkABceEnhsnnjnr/fO/4PJof90wZT/fc6g/3S+kf+GzKP/q/TL/2WUb+QjJh5VMDI6AGeLnwB1lqcAQ1ZhABoYGAAgHR0AIB4dAP///wAtMiwALzguACsxJQAkJRoBKTIjdH+0kf/M//D/m9e6/1yXcql6vp3VoPDR/3O2lMpfmna0o+DE/8f/6/90pIL/ExAFcxgRFAAnKSYAHyAdAB4cGwAcGBoAGxcYAP///wB1rYgAdayIAHWsiABtpYADh7yb2d3/+P+m3cD/cKmFkFeSaQp5tpHLtvXa/3Gvia9Zk2sNeK+Ms6Tewf/C/+T/hLyZ/x8hGnMSCAgAHBsVABwdGAAtMy0ALDIsAP///wCGwZ0AhsGdAIbBnQCEwZsAi8WiZ5zOsPGDupeegbmZAGKheA2BvpjgxPng/3e3jsxnpHwAhLqZCnmzjcCg27r/vf/c/4XEnP8jJx9uDwUGACAjHABIXkwAR1xMAP///wCMw6MAjMOjAIzDowCOxaUAhsCcAGyqgCaHv50Ai8KjAGyvghmLyKLcyPXe/4XBmshvsIULi8ChAIe+mwp7uI+3oNq2/73/2P+IyJ7/HiQcahINCwBDVkcAQlVGAP///wCKwqEAisKhAIrCoQCLw6IAh8CdAHizjACJv58Agb+YAG61hheQzKXczPTd/4rHnshwtoYLgL2VAI7CowCFwJoQgMCWtqTduP+//9f/e7qQ/yQxJGw4QTgAO0Y8AP///wCKwqEAisKhAIrCoQCLw6IAh8CdAHmyjACEvJoAgMWZAHO9ixeU0ancz/Xe/47No8h1v40LgMOWAInBngCLxKEAiMaeEYPGmbqo4Lv/zf/j/5DEo/xMdFcnUHhbAP///wCKwqEAisKhAIrCoQCLw6IAhr2cAHy2jwCAyJgAgMuZAHnGkheY1q3c0vXf/5LSqMh7xpQLgMyYAITEmwCLwqAAjsqkAIvMogyIzJ64wOzS/7HrxuaK3KYbjN2oAP///wCJwqAAicKgAInCoACKwaEAh8KeAIPOmwCG0p4AhdCdAHzMlRqe3LLj3Pno/5fYrc9+zZgMhtGeAIbPngCIxZ8AjMiiAJDPpgCU1KoFg86dZ4zSpDaX2a0AltitAP///wCN1KUAjdSlAI3UpQCN1KUAjtWmAI7YpgCN1qUAjdalAITSnRel4Lrq4vvt/5/dtNOH058LjtalAI7YpQCNzKMAjMiiAI7OpACY164AfMuXAInRowCU16oAktapAP///wCW3K0AltytAJbcrQCW3a0AltytAJbbrQCW260AltutAJLYqgSh4LeOvu3P357etHqT2asCltutAJbbrQCW2KwAjcqkAI7NpACX1q0AgM2aAIvSpACU16oAktapAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+    </ToDoView>
+    <ToDoView Name="Starred">
+      <UI ActionFlt="4" UseAdvFlt="true">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="true"/>
+      <AdvFlt>
+        <RootRule>
+          <Rule Field="Starred" ConditionName="is true" ConditionID="310"/>
+        </RootRule>
+      </AdvFlt>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="1238"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="22"/>
+      </Columns>
+      <IcoData Caption="Starred-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAABAAAAAgAAAAUAAAAKAAAACAAAAAAAAAAAAAAAAAAAABMAAAAUAAAAEQAAABEAAAASAAAAFAAAABEAAAAAAAAAAAAAAAAAAAAIAAAACgAAAAMAAAACAAAAAf///wAAAAABAAAAAwAAAAoAAAATAAAAFhowOZwpUVvIAAAAaQAAAAwAAAAnAAAALwAAAC8AAAAvAAAAKAAAABAAAgFsKlReyBgsNJQAAAAWAAAAEAAAAAgAAAACAAAAAP///wAAAAAAAAAAAQAAAAEAAAAAFzpHPYjV7f+m+///W6K9/xMnLIcCAAAGAAAAAAEBAQEAAAAAAwAABhgtM5Ndpb//q////3nD2v8QLDUqAAAAAAAAAAEAAAABAAAAAP///wAAAAAAAAAAAAAAAAAIDxEAUqrGRora9/+F0vn/gd///3vU9/85YGvBEAAAJhAAAAARBwE4Pmt5x3/c/v993P//i9b7/4TU8PxDqcoqCR0kAAAAAAAAAAAAAAAAAP///wAAAAAAAAAAAAMMEABAiKAARZWtDWOxzupkxPb/RKrk/2rL//994v//U5Cl9ixGUrRWmbD/f+L//2rK/v9FquT/ZMP1/2Kwy9xMmbALT5iuAAcMDQAAAAAAAAAAAP///wAAAAAACQ4PAFSWqQBdrMUAT5OmAF+rw7Vpyfb/QbHs/zyr5/9UvPH/aNL//2PQ//9m0f//VLzw/zqq5/9Dsu7/a8n1/1qju6hOj6IAX6/IAC5XZAAAAAAAAAAAAP///wAYLDMAN19sAHrM4QBjpLUAYJuqAFmcsHlpx+7/SLz1/ziw7f86sO3/PrPv/0W69f89s+//ObDt/zew7v9Kvff/bsvx/1mdsGpVlqgAV5utAGW0ywA1X2kAHjU7AP///wBmq70AYaK0AFOPnwBhp7oAcMPaAGm1yC1lvuD6TcX8/zWz8f85tfL/N7Tx/ze08f84tPH/OLXy/za08f9Pxf3/Zbrb92KtwRxrvNIAaLjQAGOvxABdnrIAXaC0AP///wA8SUoALTEuAA0HBwA2SEsATXN6ADtOUSBetdb3TtD//zO29P84uPb/OLj1/zi59f84ufX/N7j1/zS19P9R0f//XK3L7zNBRBQ1VWEARm55AD5faQASBgUAEQUFAP///wA3QD8AKCcjAAwAAAATAgAADAAAHz1SWtRk1vr/PsP+/y+49/8wuPj/Lrj4/y64+P8uuPj/L7f4/y+3+P8/xP3/adr6/0VYX8MAAAAUDwAAACIeHQAOAAAADwAAAP///wA5RUUAKiwpAAUAAAAcDwtHX5ah7HHu//9Cyv//Mbr6/zi/+/88wfz/QML7/0HD+/9Aw/v/PsL7/znA+/8zuvr/RMv//3j0//9Tgo3nGAsHRh8bGgARAwAAEAAAAP///wAzNjMAHBELABQUF2BrsML+gfj//2DY//9ez/z/a9b8/3PZ/f952/3/fdz9/3/d/f993P3/edz9/3TZ/f9s1v3/YM/8/2Ta//+B9P//aqy8+x8fIFMHAAAAEAEAAP///wA5TE4AOUpORoS/zP+k////gN7//4Lc/P+J4P3/jOH9/4/i/f+R4v3/keH9/5Lh/f+S4f3/kOL9/47h/f+M4P3/iOH9/4Lc/P+E4f//rf///4a/yP81RkpDPk1OAP///wBbnLIAdLLHe9H///+6+///pO3//6Ts//+l6///pOn//6Hl//+h5P7/o+X+/6Tl/v+j5f7/oeT+/6Dl//+k6v//pOv//6Ts//+k7P//ufr//83///+Ft8OUdaWvAP///wB5r70AfrK+LqHO2dau3ej/qdvn963e6/+x4O7/tub1/73v//+06f//suf9/7Po/v+y5/3/ten//7/w//+35vT/seDu/67e6/+p2+f4rd3o/53K1c6Pxc8slc7WAP///wB/tMAAhbjDAIe2wQp1pbUoY5WlH4ezvUKVvsZbgq+8eqbP2/DQ9v//vun9/77p/f/A6v3/z/X//6bO3OeGsb10l8DIXYCtuEJhlKQgeKm2J4W1wQWNwcoAkMTKAP///wB9sr8Ag7fCAI28xwB2qbgAYJamAIm3vwCVwMgAhbC8AJC2wG/O7vf/z/P//8Lq/P/Q8v//zOr1/461vVmIs74AlcLJAICvugBelKUAeq26AIu7xgCNwMoAj8PKAP///wB9sr8Ag7fCAI28xwB4q7oAZJmpAIm3wQCVwckAnsbOAJe+xhm62+P12vn//8bs/f/a+f//udng7pK4vg2VvcYAlsLKAIKxvABil6gAfK+8AIu7xgCNwMoAj8PKAP///wB9sr8Ag7fCAI28xwB4q7oAZJmpAIi3wQCcwckAn8DIAJe6wgCqytGt2vj//9D2///Z9/7/psfOoZK3vwCavMQAncPKAICwvABil6gAfK+8AIu7xgCNwMoAj8PKAP///wB9sr8Ag7fCAI28xwB4q7oAY5mpAI64wQClwsoAoL7GAJ+9xQCcu8NQ0O3y//D////L5+7/l7jAQJu8wwCdvcUAosLJAH+uugBhl6kAfK+8AIu7xgCNwMoAj8PKAP///wB9sr8Ag7fCAI28xwB4q7oAYpipAJi8xACryM4ApcTLAKXEywCevsYJudbb1uv29/+00NbGm7zDAqPCyACiwskAqcXLAI20vwBimKoAfK+8AIu7xgCNwMoAj8PKAP///wB9sr8Ag7fCAI28xwB4q7oAYpipAJm8xACryM4ApcTLAKXEywCmxcwAocDHKqHAyIGiwsgmp8bNAKbFzACmxcwArMnPAJy9xQBkmaoAfK+8AIu7xgCNwMoAj8PKAP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+    </ToDoView>
+    <ToDoView Name="Outline" IsFolder="true">
+      <UI ActionFlt="4">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt/>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="481"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="22"/>
+      </Columns>
+      <IcoData Caption="Outline-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////ALWNhYewhHz/sIR8/7CEfP+xhn7/sYZ+/7CEfP+xhn7/sIR8/7CEfP+xhn7/sYZ+/6+De/+ugXn/roF5/66Bef+ugXn/roF5/7WMhIf///8A////AP///wD///8A////ALGGfv/l3NX/5dzV/+Xc1f/l3NX/5dzV/+Xc1f/l3NX/5dzV/+Xc1f/l3NX/5dzV/+Xc1f/l3NX/5dzV/+Xc1f/l3NX/5dzV/66Bef////8A////AP///wD///8A////ALOJgf/m3db/5t3W/+bd1v/m3db/5t3W/3hFPP94RTz/eEU8/3hFPP94RTz/5t3W/+bd1v/m3db/5t3W/+bd1v/m3db/5t3W/6+Cev////8A////AP///wD///8A////ALOJgf/n3tf/597X/+fe1//n3tf/597X/3hFPP/39PL/9/Ty//f08v94RTz/597X/+fe1//n3tf/597X/+fe1//n3tf/597X/6+De/////8A////AP///wD///8A////ALOJgf/o39j/6N/Y/+jf2P/o39j/6N/Y/3hFPP/39PL/9/Ty//f08v94RTz/6N/Y/3hFPP94RTz/eEU8/3hFPP/o39j/6N/Y/6+De/////8A////AP///wD///8A////ALaOhv/p4Nn/6eDZ/+ng2f/p4Nn/6eDZ/3hFPP/39PL/9/Ty//f08v94RTz/6eDZ/+ng2f/p4Nn/6eDZ/+ng2f/p4Nn/6eDZ/7CEfP////8A////AP///wD///8A////ALiQif/q4dn/6uHZ/+rh2f/q4dn/6uHZ/3hFPP94RTz/eEU8/3hFPP94RTz/6uHZ/+rh2f/q4dn/6uHZ/+rh2f/q4dn/6uHZ/7KIgP////8A////AP///wD///8A////ALiRiv/s4tv/7OLb/+zi2//s4tv/7OLb/+zi2//s4tv/7OLb/+zi2//s4tv/7OLb/+zi2//s4tv/7OLb/+zi2//s4tv/7OLb/7SLg/////8A////AP///wD///8A////ALmSi//t5Nz/7eTc/+3k3P/t5Nz/7eTc/3hFPP94RTz/eEU8/3hFPP94RTz/7eTc/+3k3P/t5Nz/7eTc/+3k3P/t5Nz/7eTc/7SLg/////8A////AP///wD///8A////ALqUjf/u5d3/7uXd/+7l3f/u5d3/7uXd/3hFPP/39PL/9/Ty//f08v94RTz/7uXd/+7l3f/u5d3/7uXd/+7l3f/u5d3/7uXd/7WMhP////8A////AP///wD///8A////ALuWj//w5t7/8Obe//Dm3v/w5t7/8Obe/3hFPP/39PL/9/Ty//f08v94RTz/8Obe/3hFPP94RTz/eEU8/3hFPP/w5t7/8Obe/7WMhP////8A////AP///wD///8A////ALyXkP/x59//8eff//Hn3//x59//8eff/3hFPP/39PL/9/Ty//f08v94RTz/8eff//Hn3//x59//8eff//Hn3//x59//8eff/7WMhP////8A////AP///wD///8A////ALyXkP/y6OD/8ujg//Lo4P/y6OD/8ujg/3hFPP94RTz/eEU8/3hFPP94RTz/8ujg//Lo4P/y6OD/8ujg//Lo4P/y6OD/8ujg/7aOhv////8A////AP///wD///8A////AL6blP/06uL/9Ori//Tq4v/06uL/9Ori//Tq4v/06uL/9Ori//Tq4v/06uL/9Ori//Tq4v/06uL/9Ori//Tq4v/06uL/9Ori/7iRiv////8A////AP///wD///8A////AL+clf/16+P/eEU8/3hFPP94RTz/eEU8/3hFPP/16+P/9evj//Xr4//16+P/9evj//Xr4//16+P/9evj//Xr4//16+P/9evj/7iRiv////8A////AP///wD///8A////AMGemP/27OT/eEU8//f08v/39PL/9/Ty/3hFPP/27OT/9uzk//bs5P/27OT/9uzk//bs5P/27OT/9uzk//bs5P/27OT/9uzk/7iRiv////8A////AP///wD///8A////AMGemP/37OT/eEU8//f08v/39PL/9/Ty/3hFPP/37OT/eEU8/3hFPP94RTz/eEU8/3hFPP94RTz/eEU8/3hFPP/37OT/9+zk/7iRiv////8A////AP///wD///8A////AMGemP/47eX/eEU8//f08v/39PL/9/Ty/3hFPP/47eX/+O3l//jt5f/47eX/+O3l//jt5f/47eX/+O3l//jt5f/47eX/+O3l/7iRiv////8A////AP///wD///8A////AMGemP/57ub/eEU8/3hFPP94RTz/eEU8/3hFPP/57ub/+e7m//nu5v/57ub/+e7m//nu5v/57ub/+e7m//nu5v/57ub/+e7m/7iRiv////8A////AP///wD///8A////AMGemP/67+f/+u/n//rv5//67+f/+u/n//rv5//67+f/+u/n//rv5//67+f/+u/n//rv5//67+f/+u/n//rv5//67+f/+u/n/7mSi/////8A////AP///wD///8A////AMqsp4XBnpj/wZ6Y/8GemP/Bnpj/wZ6Y/8GemP/Bnpj/wZ6Y/8GemP/Bnpj/wZ6Y/8GemP++m5T/vpqT/72Zkv+8l5D/u5aP/8KgmoX///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      <ToDoView Name="All tasks">
+        <UI ActionFlt="4" UseHierarchy="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="6" Width="1121"/>
+          <Column ID="2" Pos="0" Width="100"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+        <IcoData Caption="All tasks-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBZcpb/SWaW/z9dlv8+W5P/PViR/zlRjf85UIr/N06G/zZLhP82S4T/NEqB/zRHgP8zRn//MkN+/zJDef8yQnn/MEJ4/zNFdf9KV33/////AP///wD///8A////AP///wBKaZn/vcPL/8zJxv/Lycb/0c7H/9LPyP/Sz8n/0tDJ/9PRyv/My8j/zMvI/8vJxv/Ix8T/yMfE/8nHxP/Jx8T/ycfE/9XV0/84R3n/////AP///wD///8A////AP///wBFaKL/zMrH//Hw8f/x8PH/8fDx//Hw8f/x8PH/8fDx//Hw8f/y8fL/9PLz//Hw8f/x8PH/8fDx//Dv8P/w7/D/8fDx/8jHw/8vQHf/////AP///wD///8A////AP///wBKd6z/08/J//z69//6+PX/8fDx/9DQzv/U09L/1dPT/9zY2f9Fh1r/+/n3//j39f/x8PH/8fDx//Hw8f/w7/D/8O/w/9HOyP8xQXj/////AP///wD///8A////AP///wBMfK//087J///++P/+/Pf/8fDx/9TU0v////v////6/2alff85fFL/YaV6//38+P/x8PH/8fDx//Hw8f/w7/D/8O/w/9HOx/8xQnv/////AP///wD///8A////AP///wBNfrL/1M/K////+v////n/8fDx/9TU0/////z/YqN7/zqDVv+CqZH/OIBS/2evhP/c19n/z8/P/8/Pz//Pz8//8/Ly/9DOx/8xRH3/////AP///wD///8A////AP///wBNgLT/2NPO/////P////v////6/9jW1/9Yo3T/PIdV/4y6n//g297/iLyc/ziBU/9uuIn////6///9+P/+/Pn//vz3/9HPyP8yRn7/////AP///wD///8A////AP///wBNgbb/2tXQ/////v////7////9/9TU1P/c2Nv/YqJ8/9zY2v/V1NT////9/4a+nf87hVX/ar2K////+/////r////6/9TSzP8zR4H/////AP///wD///8A////AP///wBNhbj/2tXQ///////////////+///////////////////////7+ff////+/////v+Nw6H/OYtW/3HEj/////z////7/9XTzf81SIL/////AP///wD///8A////AP///wBNh7r/1dPR///////////////////////////////////////8+/f////+/////v////3/jMqk/z2PV/9zzJH////9/9XSzf81S4P/////AP///wD///8A////AP///wBMh7r/19XT///////Q0M7/1NPS/9XT0//c2Nn/RYda//v59//49/X//////////////////////5jTq/8tfUL/QMZr/9TSzf81S4P/////AP///wD///8A////AP///wBMh7v/2NbU///////U1NL////7////+v9mpX3/OXxS/2Glev/9/Pj////7////+/////v////7////+/9Axmv////7/9bUz/83TYf/////AP///wD///8A////AP///wBMib3/2NbU///////U1NP////8/2Kje/86g1b/gqmR/ziAUv9nr4T/3NfZ/8/Pz//Pz8//z8/P/8/Pz//Pz8/////7/9bTzf83UYv/////AP///wD///8A////AP///wBMiL7/29nX///////Y1tf/WKN0/zyHVf+Mup//4Nve/4i8nP84gVP/briJ////+v///fj//vz5//789/////z////8/9HQzf85U4z/////AP///wD///8A////AP///wBLh8D/5ODd///////U1NT/3Njb/2KifP/c2Nr/1dTU/////f+Gvp3/O4VV/2q9iv////v////6////+v////7////+/9TT0f87VY7/////AP///wD///8A////AP///wBLh8H/5eHe/////////////////////////////////////v////7/jcOh/zmLVv9xxI/////8////+////////////9bV0/88WJP/////AP///wD///8A////AP///wBLh8L/5uLf/////////////////////////////////////v////7////9/4zKpP89j1f/c8yR/////f///////////9fW1P89W5X/////AP///wD///8A////AP///wBLh8L/5+Pg//////////////////////////////////////////////////////+Y06v/LX1C/0DGa////////////9nX1f8+XZf/////AP///wD///8A////AP///wBLh8L/8e/t/+jk4f/Fw8L/pqql/6urp/+1tbT/t7a1/7+5vf+tq6r/rauq/62rqv+tq6r/mNOr/6urp/+xs6//3NvZ/+jm4/8/YZv/////AP///wD///8A////AP///wBQh77+UovD/1GMxf+BmrP/xcC8//f39//5+fn/+fn5//n5+f/39/f/9/f3//f39//39/f/9/f3//f39//Dwb7/SnSo/0tvpf9HZ53+////AP///wD///8A////AP///wB4kqlkcpGtsHCRsMBvj63KsLS9/KCjrf+4u73/xcbG/8C+vP+/vbv/rauq/62rqv+tq6r/rauq/62rqv+wsrv/bIehvmuEn8V0h5tk////AP///wD///8A////AP///wD///8A////AP///wD///8Aw7/GAP///wD///8A////AP///wCysLDlpKOk/////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+      <ToDoView Name="Projects" IsFolder="true">
+        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" ProcessInclBranch="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group ShowGroupName="false">
+          <Grp1 GroupBy="7"/>
+        </Group>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="IsProject" ConditionName="is true" ConditionID="310"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="2" Width="1221"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+        <IcoData Caption="Projects-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wDHv6vZxLeb/8S3m//Et5v/xbic/8W4nP/Et5v/xbic/8S3m//FuJz/xLeZ/8O2mP/DtJf/w7SX/8O0l//DtJf/w7SX/8O0l//HvqjZ////AP///wD///8A////AP///wDFuJz/8evg//Hr4P/y7N//8+vg//Pr4P/x6+D/8+vf//Ls3//z69//8evg//Lt3//y7d//8+3g//Pr4P/y7N//8+vf//Pr3//Cs5b/////AP///wD///8A////AP///wDHvKH/6eTb/+nk2//o5dv/6ubZ/+rm2f/p5tn/6OTb/1Okav/z7+T/8+7k/3l19P9wbe7/Y2Ll/1RV3P9HStT/R0rU//Pv5P/Dtpj/////AP///wD///8A////AP///wDHvKH/8+7k/1m8c/9ZtnD/U6dr/1Ceaf/z7uT/8+/k/1Okav/z8OT/8+/k/3l29P95dfP/cW3u/2Nh5v9UVtz/VFbc//Pv5P/Dtpj/////AP///wD///8A////AP///wDHvaL/8+/k/1m8df9Zu3L/V65t/1Okav9TpGr/U6Rq/1Okav/18Ob/9fDm/3l29P95dvT/eXTz/3Bu7v9jYuX/Y2Ll//Xw5v/Et5n/////AP///wD///8A////AP///wDLwKf/9fDm/1m8ef9ZvHX/WbRv/1asbf/18Ob/9fHm//Xw5//s6OD/7Ojg/7u61/9JUMP/u7rZ/+3o4P/s6OD/7ejg/+3o4P/Gup//////AP///wD///8A////AP///wDNwan/7eni/+3p4v/s6eP/7eni/+3p4v/t6eL/7eni/+3p4v/t6eL/7eni/0lQw/9JUMP/SVDD/+3p4v/t6eL/7eni/+3p4v/Hu6D/////AP///wD///8A////AP///wDNwqr/9/Xr//f16//39ev/9/Xr//f16//1w37/7bx5/+S2c//KoGT/yqBk//f16/9JUMP/9/Xr//f16//39ev/9/Xr//f16//HvaL/////AP///wD///8A////AP///wDPxK3/+PXu//j17v/49e7/+PXu//j17v/8yYT/9cN//+28ef/Tp2j/06do/8icXP/InFz/yJxc/8icXP/InFz/yJxc//j17v/HvaL/////AP///wD///8A////AP///wDQxa7/+vbv//r27//69u//+vbv//r27///zor//MqE//XEf//brm7/265u//r27/9JUMP/+vbv//r27//69u//+vbv//r27//IvqP/////AP///wD///8A////AP///wDQxrH/8O7p//Du6f/w7un/8O7p//Du6f/i073/wJVY/+LTvf/w7un/8O7p//Du6f9JUMP/8O7p//Du6f/w7un/8O7p//Du6f/IvqP/////AP///wD///8A////AP///wDRx7L/8O3r//Dt6//w7ev/8O3r//Dt6//AlVj/wJVY/8CVWP/w7ev/8O3r//Dt6/9JUMP/8O3r//Dt6//w7ev/8O3r//Dt6//Jv6T/////AP///wD///8A////AP///wDRyLT/+vn1/2Ni5f9YWN//REjR/z5Dzv/7+fX/wJVY//v59f/7+fX/+/n1//v59f9JUMP/+/n1//v59f/7+fX/+/n1//v59f/LwKf/////AP///wD///8A////AP///wDTy7f/+/j2/21r7P9jYuX/TFDY/z5Dzv9ITrz/wJVY/0hOvP9JUMP/SVDD/0lQw/9JUMP/+/r2//v69v/7+vb/+/r2//v69v/MwKj/////AP///wD///8A////AP///wDTzLn/+/r6/3Zy8f9uauz/WFne/0RI0v/8+/r/wJVY//z79v/8+/b//Pv6//z6+v/7+vr/+/v6//z7+v/8+/r//Pr6//z6+v/Nwan/////AP///wD///8A////AP///wDWzr3/8/Xy//P18v/z9fL/8/Xy//P18v/z8vL/wJVY//Py8v/z9fL/8/Ly//Py8v/z8vL/8/Ly//Py8v/z8vL/8/Ly//Py8v/Nwan/////AP///wD///8A////AP///wDWzr3//v7+/+29ef/ZrGv/u5NZ//7+/v/+/v7/wJVY//7+/v/+/v7//v7+//7+/v/+/P7//vz+//7+/v/+/v7//v76//7++v/Nwqr/////AP///wD///8A////AP///wDWzr3///7///7Lhv/tvXn/u5NZ/8CVWP/AlVj/wJVY/////v/+//7////////+///+/v7//v7+/1Okav9TpGr/U6Rq///+/v/Ow6z/////AP///wD///8A////AP///wDWzr3////////Qkv/+y4b/x5xg/////////////////////////////////////////////////1Okav/////////////////Ow6z/////AP///wD///8A////AP///wDWzr3////////////////////////////////////////////////////////////////////////////////////////////PxK3/////AP///wD///8A////AP///wDb2tHW1s69/9bOvf/Wzr3/1s69/9bOvf/Wzr3/1s69/9bOvf/Wzr3/1s69/9TNvP/Tzbr/08y5/9PLt//SyrX/0cey/9DGsf/V0MLW////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+      <ToDoView Name="tasks by context" IsFolder="true">
+        <UI ActionFlt="4" UseHierarchy="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="2"/>
+          <Grp3 GroupBy="0"/>
+          <Grp4 GroupBy="0"/>
+        </Group>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="true"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="2" Width="1221"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+        <IcoData Caption="user">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBpqN8NhHp+E7NQIJigQB/jqkUi9axGIvqrRCL6p0Eh9p89H+qyTyS6gG5wFmmp4Q3///8A////AP///wBtotN5JXnN+4ZhYfu/YDX//rlh//65Yv/+uWL//rli//65Yf/+uWH/sUkk/3pkbfUufs74baLTg////wD///8AKX3R/oK67v+fZlj/9buE//+sW//+qFr//qJX//6cU///o1X//59Q//iueP+kXkr/g7zv/yp3yv7///8A////ACh8zvx4s+r/s56U//+3YP//tmP//rJh//6sXf/+pVn//Z5T//6XTv//jUP/vI+C/3647f8pdMf6////AP///wCeUytQilRE//zIq///0Zj//sdt//6/aP/+uWT//rFe//6oWf/9oFT//7d6//6pgP+IUEL/i0wrYP///wD///8AqUkTAalGDWDETB//9uTW///kpP//1HL//8lp///AY///tl///8GA//bXxv/FSR//nj4LaZdBDwT///8A////AP///wCnShUHpEgTabxIHP/04tT/Tnup/017qP9Ne6j/Tnup//PWw/++Rhz/nUISb5hCEwr///8A////AP///wD///8A////AKVLFwVqPCWiNG2n/5zM+P+v1Pf/r9T3/6XP9v80dK7/aD4trZtFFQn///8A////AP///wD///8A////AP///wD///8AKluSxKbK7v+rzOr/p9D2/6jQ9v+rzOr/p83u/y1imsz///8A////AP///wD///8A////AP///wD///8A////AB9em+3Z6Pf/l8Xx/4675f9/qdH/ibXf/83f7v8jaKfxaqDSBv///wD///8A////AP///wD///8A////AP///wAMPof/fJe4/4q35P9xnMj/FUBu/xlEcv8iRWv/ETtm+k14ogf///8A////AP///wD///8A////AP///wD///8AD0uX/xJYn/8PSor/D0uH/xFLh/8VTIX/EkF1/w8zXPH///8A////AP///wD///8A////AP///wD///8A////ABIzZ3cRTpb+Elib/xJYmf8RU5P/D0qH/w4+cf4TLkuB////AP///wD///8A////AP///wD///8A////AP///wD///8AFDVqfRJIjfQQS5D/D0iK/xFCffUVM1uE////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+      </ToDoView>
+      <ToDoView Name="Goals">
+        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" ProcessInclBranch="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group ShowGroupName="false">
+          <Grp1 GroupBy="4"/>
+        </Group>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="GoalMaster" ConditionName="&lt;&gt;" DataValue="None" DataType="Integer" ConditionID="702"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="2" Width="1131"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="25" Pos="0" Width="107"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+        <IcoData Caption="Goals-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABQAAAAUAAAAHAAAACQAAAA8AAAAXAAAAIgAAAC8AAABAAAAAQwAAAEMAAABCAAAANQAAACgAAAAhAAAAJQAAAB8AAAAYAAAAEgAAAA4AAAAHAAAAAwAAAAEAAAAGAAAACAAAAA4AAAASAAAADwAAABxwfXO1aZN1+E6VY/47jFb/OYxR/zeKU/86g1T/SIhi/2CHcvhsd3K3AAAAHQAAABEAAAAUAAAADgAAAAgAAAAGAAAAAgAAAAEAAAAFAAAACAAAAAsAAAALg46GjF+abfs+l1T/OpNS/zeJUP8yg0v/MH1H/y53R/8xfUr/NHxN/zZ/UP81ek3/VIBl+36Ig4wAAAALAAAACwAAAAgAAAAFAAAAAgAAAAEAAAADAAAABAAAAAOTq5nEQ5pV/z2aU/82k03/gL2Q/7/Ywf/j6+H/9fTx//Lx7//a4d7/s8u9/3Sqiv8zeEv/M3pO/zlyS/+LnZPEAAAAAwAAAAQAAAADAAAAAgAAAAEAAAABAAAAAZqznr5Am1D/OpxR/266gv/P49L////5////+P///fj//fz3//n59v/39fX/8vH0//Xy9P/D08r/Y6J7/zN3S/8zakb/jqGWwAAAAAEAAAABAAAAAQAAAAIAAAABpbapcUSiVP88pVH/hcaY/+vz6f////v/9u/h/+XPr//Uq2//vYZG/7Z9Q//Fm2P/1L+g/+Xd2P/y8fT/3eHf/2qdf/8uaUT/NWpI/52qo3EAAAABAAAAAQAAAAIAAAAAbLF59j+qVf91wYb/6/Tp/////P/w4cn/3K5o/82USv/FjEj/wYRE/7p9QP+0dT//rXA5/7eFUf/QwrH/4+Lm/9PW1f9fnHb/MXVL/1qLbPYAAAAAAAAAAQAAAAGluqmLO6lM/z+sUf/R6NX////8//Tlzf/grlv/2qFS/+XIn//x5NL/+vjw//n37//t4M7/z7KL/5ZiM/9vSy3/ybqo/+/u8P/D08r/M3dL/y1oQP+aqaKMAAAAAAAAAAB+t4zrPrFU/4jOmv////3/+/To/+zFfv/jrVj/8Nu7/////P////r////4////+v/y8+r/1NbV/6GRef+gaDn/t4VR/+Td2P/18vT/dKuM/y93R/9qlH7tapR+AAAAAABQs2P8QbJX/8PkyP////z/9OHD/+q4YP/w1av////8//Ly+f+xr+v/TE7Y/zk8q/9oaJL/vL+3//T08P/StYz/q204/9W+oP/z8vT/s8u9/zJ7S/9BelX+QXpVAEF6VQA7rU/9PrRV/+bz6P////3/79Od/+q9aP/47dn////8/7q48/9MS+b/U1HB/zo4iP8oKIj/pafe//7++P/s387/sXQ8/8KaY//39fX/2uHe/zF7Sf8taUH/LWlBAC1pQQA5sE/9O7NT//n7+P////7/68V9/+q/bP/9+fX////8/2Rk8/9zbev/WVS6/yssWv9VVMz/WlvR////9//59+//tns//7d7Qv/5+ff/8/Hw/y55R/8qbD//Kmw/ACpsPwA5sFL9O7NU//n7+P////7/68WD/+rBb//9+vb////8/2Rj8/9wbfD/ZHHJ/ztPav9fZs//ZWPZ////+P/69u3/vX9B/7uCRf/8/Pf/9fbw/y96R/8rb0H/K29BACtvQQA7rVP8PrRa/+bz6v////7/79On/+rBef/4793////9/7i59/9SUfH/cmzw/2qEy/87UXL/ipfI////+v/w4s3/xpJU/8+nav///fj/4+vh/zKASv8tc0L/LXNCAC1zQgBQs2r7QbVb/8Pmy/////7/9OPM/+rAff/y27f////9//Pz/P+4ufb/e3nz/3548v+ftt//QVlx/6C3yP/mypz/zJlW/+PMrP////n/wNjA/zaETf9FhVf+RYVXAEWFVwB+uJLqPrVa/4jRov///v//+vTu/+3Mnf/qwHn/9ePJ/////f////3////9/////P////v/1ens/1F+nv9pfYf/2rNy//bt3f////n/fruQ/zSGSv90oIHtdKCBAHSggQCluauKO65V/0C1W//R69n//v////fo2f/rxIr/6sB5//LbuP/479z//fn2//359f/469X/8NWp/8i4iv9fi6f/b5Gm//X39P/L4s3/RJpc/zODRf+hsaOMobGjAKGxowCluasAbbeG9kC1W/92zJL/6/bt///////36Nr/7cyb/+rBe//qwXb/6sFu/+q+av/qumb/6bly/+vCg//e3sr/daXI/2qWu/97uZD/RJ1Y/2Shc/ahsaMAobGjAKGxowCnua0Ap7mtbkavYf9AtV3/i9Gh/+r27f////7/+/Tu//TjzP/v06X/68SB/+vFe//vz5r/9ODB//vz5f////z/3ezk/3CqvP9dicH/WqBy/5yxnm5BTs0AS1PGAExUxwCnua0Ap7mtAJ25p7lCrl3/P7Vb/3XMlf/R69n//v///////v////7////+/////f////3////9/////f/L5s//fcSN/1GvZ/9urrT/GyG6/zM7yvFBTs3IS1PGAExUxwCnua0Ap7mtAJ25pwCduae5Rq9h/0C2XP9AtVv/iNGf/8Pmy//m9Or/+fv4//n7+P/m8+n/w+TI/4fNmv8+q1H/Sqxg/1SpY/+Ytp7ITG/J/yEnvP8lM7n8S1PG5ExUxwCnua0Ap7mtAJ25pwCduacAp7mtbm23hvY8rlb/PrVa/0C1W/8+tFf/PLNT/zyzUf8+s1X/QLFV/z+vUv87qE3/bLB79qe4q26Ytp4AHC/I2z1fw/8eIb3/Ki6+/ExUx+Cnua0Ap7mtAJ25pwCduacAp7mtAG23hgCluaqMf7iS7VCzaf47rVP/ObBP/zmwUP87rU//ULJj/n+2je2luaeMbLB7AKe4qwCYtp4AHC/IABYdsfdbhMr/Y3KT/ExUxwCnua0Ap7mtAJ25pwCduacAp7mtAG23hgCluaoAf7iSAFCzaQA7rVMAObBPADmwUAA7rU8AULJjAH+2jQCluacAbLB7AKe4qwCYtp4AHC/IABYdsQATF6nzY3KTAExUxwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+      <ToDoView Name="Review">
+        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="26" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="NextReview" ConditionName="exists" ConditionID="429"/>
+            <Rule Field="NextReview" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="918"/>
+          <Column ID="7" Pos="29" Width="79"/>
+          <Column ID="27" Pos="36" Width="22"/>
+          <Column ID="33" Pos="18" Width="100"/>
+          <Column ID="34" Pos="35" Width="103"/>
+          <Column ID="35" Pos="19" Width="100"/>
+          <Column ID="36" Pos="9" Width="89"/>
+        </Columns>
+        <IcoData Caption="Review-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AJeNeAiXjXgyl414M5eNeDOXjXgzl414M5eNeDKXjXgI////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAl414Ep6VhEq3tK2vtrSusrWyrLK0sauytLGrsrKvqa+dlIJKl414Eb29vQC9vb0Avb29AP///wD///8A////AM/It//Et5v/xLeb/8S3m//FuJz/xbic/7quk/+4q5H/taqU/7y2qf/e3t7/8PDw/+3t7f/r6+v/6urq/9ra2v+3saT/s6iR/8nBr/+9vb0Avb29AP///wD///8A////AMW4nP/x6+D/8evg//Ls3//z6+D/29PG/8nCtf/Hwbb/2dnY/8/Pz//o6Oj/6Ojo/+Xl5f/k5OT/4eHh/+bm5v/u7u7/1dXT/7SplP+XjXgavb29AP///wD///8A////AMe8of/p5Nv/6eTb/+jl2//q5tn/xL6w/8/Kvv/9/f3/6+vr/9/f3//l5eX/5OTk/+Tk5P/i4uL/3t7e/9ra2v/i4uL/6Ojo/9TT0P+akH1nl414Av///wD///8A////AMe8of/z7uT/WLxy/1i2b/9Sp2r/YJBn//Hv7P/z8/P/1NTU/9/f3//j4+P/4uLi/+Hh4f/f39//3Nzc/9jY2P/R0dH/4uLi/+bm5v+wrKSfl414LP///wD///8A////AMe9ov/z7+T/WLx0/1i7cf9Wrmz/Z5dr/9/p3///////6urq/9TU1P/c3Nz/4ODg/9/f3//e3t7/2tra/9XV1f/Ozs7/xMTE/+Li4v+3tbC5mpF+Pf///wD///8A////AMvAp//18Ob/WLx4/1i8dP9csW//cZ90////////////8/Pz/9bW1v/o6Oj/6+vr/+vr6//r6+v/6urq/+jo6P/h4eH/ysrK/93d3f/X19b5m5F+aZeNeAf///8A////AM3Bqf/t6eL/7eni/+zp4//g2tH/v7qz/+jo6P/39/f//Pz8//f39//6+vr/+vr6/+/v7//v7+//7+/v/+/v7//v7+//7+/v/9ra2v/d3d3/r6qhkpeNeCb///8A////AM3Cqv/39ev/9/Xr//f16//m4tb/z8zE/729vf/+/v7/+/v8/4mYuv9gdaT/RV6X/ztVk/89VpT/SWGZ/2N3p/+Kmbv/ys/c//Dw8P/r6+v/tLCppJeNeC7///8A////AM/Erf/49e7/+PXu//j17v/s6N//1dHI/+/v7//7+/v/eImy/zVQj/83UZD/OlSS/z9YlP9XbaL/RF2X/0Jblv8+WJT/e4y0//Pz8//q6ur/raidhpeNeCD///8A////ANDFrv/69u//+vbv//r27//69u//2tTJ/9fGrf/v7+//4uXr/6q0zP+Rn8D/fI20/4mYvP/q7PP/n6vI/6Svyv+3wNT/5eft/+vr6/+7uLKzn5eFXv///wD///8A////ANDGsf/w7un/8O7p//Du6f/w7un/7evl/8u/qv++qov/29rX/+zs7P/t7e3/7u7u//b29v+xu9T/4ubv//r6+v/z8/P/3NvZ/8O8rv+mno5gl414CP///wD///8A////ANHHsv/w7ev/8O3r//Dt6//w7ev/8O3r/8CVV/+6lFz/4N3Y/9jVz//a19H/3dvV/+Ph3f/6+/z/boGv/32Ot//l6PH/8vLw/8rBq/////8K////AP///wD///8A////ANHItP/6+fX/YmHl/1dX3/9DR9H/PULO//v59f/Blln///////r6+P/6+vn/+/v6//v6+v/9/fz/5+ry/zVQj/9SaZ///////9XMuP////8O////AP///wD///8A////ANPLt//7+Pb/bGrs/2Jh5f9LT9j/PULO/0dNvP/CmFz/WmDD/2910P////////////Hz9//Q1+X/i5u//zVQj/9QZ57//////9bMuf////8O////AP///wD///8A////ANPMuf/7+vr/dXHx/21p7P9XWN7/Q0fS//z7+v/DmmD//fz4//7+/P+xvNT/SGCa/zVQj/81UI//NVCP/05lnf/P1uX//////9XLtv////8L////AP///wD///8A////ANbOvf/z9fL/8/Xy//P18v/z9fL/8/Xy//Py8v/EnGL/9vX1//////9CXJb/NVCP/1lwo/+bqcj/z9bl//39/v///////////9LHsf////8H////AP///wD///8A////ANbOvf/+/v7/7b14/9msav+7k1j//v7+//7+/v/EnGL//v7+//////9JYZr/Tmad//7+/////////////////////////////8/Frv////8D////AP///wD///8A////ANbOvf///v///suG/+29eP+7k1j/wJVX/8CVV//Dml/////+//7//v+8xdr/OlSS/4ybv////////////////////////////8/Erf////8A////AP///wD///8A////ANbOvf///////9CS//7Lhv/HnF//////////////////////////////////zNPj/0hgmv+jr8z//////////////////////87DrP////8A////AP///wD///8A////ANbOvf///////////////////////////////////////////////////////////+7x9v9fdKb//////////////////////8/Erf////8A////AP///wD///8A////AODg2P/Wzr3/1s69/9bOvf/Wzr3/1s69/9bOvf/Wzr3/18++/9jQwP/b1MX/3NbI/+rn3v/Gzt//6OTZ/9bPvP/TybX/0Max/9vXzP////8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wP///8L////FP///xv///9e////Fv///w7///8G////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+    </ToDoView>
+    <ToDoView Name="To-Do" IsFolder="true">
+      <UI ActionFlt="4">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt/>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="481"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="22"/>
+      </Columns>
+      <IcoData Caption="To-Do-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AD22YYc6rVz/Oq1c/zqtXP86rVz/Oq5d/zquXf86rVz/Oq5d/zqtXP86rVz/Oq5d/zmrW/85qlv/Oapb/zmqW/85qlv/Oapb/zmqW/88s1+H////AP///wD///8A////ADquXf/G7db/xu3W/8bt1v/G7db/xu3W/8bt1v/G7db/xu3W/8bt1v/G7db/xu3W/8bt1v/G7db/xu3W/8bt1v/G7db/xu3W/8bt1v84qFn/////AP///wD///8A////ADuxXv/I7tf/yO7X/w97X/8Pe1//D3tf/w97X/8Pe1//yO7X/8ju1//I7tf/yO7X/8ju1//I7tf/yO7X/8ju1//I7tf/yO7X/8ju1/85q1v/////AP///wD///8A////ADuxXv/I79f/yO/X/w97X/////////////////8Pe1//yO/X/8jv1//I79f/yO/X/8jv1//I79f/yO/X/8jv1//I79f/yO/X/8jv1/85q1v/////AP///wD///8A////ADuxXv/J79j/ye/Y/w97X/////////////////8Pe1//ye/Y/w97X/8Pe1//D3tf/w97X/8Pe1//D3tf/w97X/8Pe1//D3tf/8nv2P85q1v/////AP///wD///8A////AD22Yf/K8Nn/yvDZ/w97X/////////////////8Pe1//yvDZ/8rw2f/K8Nn/yvDZ/8rw2f/K8Nn/yvDZ/8rw2f/K8Nn/yvDZ/8rw2f86rVz/////AP///wD///8A////AD23Yf/K8dr/yvHa/w97X/8Pe1//D3tf/w97X/8Pe1//yvHa/8rx2v/K8dr/yvHa/8rx2v/K8dr/yvHa/8rx2v/K8dr/yvHa/8rx2v87sF7/////AP///wD///8A////AD65Y//M8tv/zPLb/8zy2//M8tv/zPLb/8zy2//M8tv/zPLb/8zy2//M8tv/zPLb/8zy2//M8tv/zPLb/8zy2//M8tv/zPLb/8zy2/88s1//////AP///wD///8A////AD66Y//N89z/zfPc/w97X/8Pe1//D3tf/w97X/8Pe1//zfPc/83z3P/N89z/zfPc/83z3P/N89z/zfPc/83z3P/N89z/zfPc/83z3P88s1//////AP///wD///8A////AD+8ZP/O9N3/zvTd/w97X/////////////////8Pe1//zvTd/8703f/O9N3/zvTd/8703f/O9N3/zvTd/8703f/O9N3/zvTd/8703f88s1//////AP///wD///8A////AD+9Zf/P9N7/z/Te/w97X/////////////////8Pe1//z/Te/w97X/8Pe1//D3tf/w97X/8Pe1//D3tf/w97X/8Pe1//D3tf/8/03v88s1//////AP///wD///8A////AEC/Zv/Q9d//0PXf/w97X/////////////////8Pe1//0PXf/9D13//Q9d//0PXf/9D13//Q9d//0PXf/9D13//Q9d//0PXf/9D13/88tGD/////AP///wD///8A////AEHAZ//R9uD/0fbg/w97X/8Pe1//D3tf/w97X/8Pe1//0fbg/9H24P/R9uD/0fbg/9H24P/R9uD/0fbg/9H24P/R9uD/0fbg/9H24P89tmH/////AP///wD///8A////AELAaP/S9+H/0vfh/9L34f/S9+H/0vfh/9L34f/S9+H/0vfh/9L34f/S9+H/0vfh/9L34f/S9+H/0vfh/9L34f/S9+H/0vfh/9L34f8+uWP/////AP///wD///8A////AEXBav/T+OL/0/ji/w97X/8Pe1//D3tf/w97X/8Pe1//0/ji/9P44v/T+OL/0/ji/9P44v/T+OL/0/ji/9P44v/T+OL/0/ji/9P44v8+uWP/////AP///wD///8A////AEfCbP/U+eP/1Pnj/w97X/////////////////8Pe1//1Pnj/9T54//U+eP/1Pnj/9T54//U+eP/1Pnj/9T54//U+eP/1Pnj/9T54/8+uWP/////AP///wD///8A////AEfCbP/V+eP/1fnj/w97X/////////////////8Pe1//1fnj/w97X/8Pe1//D3tf/w97X/8Pe1//D3tf/w97X/8Pe1//D3tf/9X54/8+uWP/////AP///wD///8A////AEfCbP/V+uT/1frk/w97X/////////////////8Pe1//1frk/9X65P/V+uT/1frk/9X65P/V+uT/1frk/9X65P/V+uT/1frk/9X65P8+umP/////AP///wD///8A////AEfCbP/W+uX/1vrl/w97X/8Pe1//D3tf/w97X/8Pe1//1vrl/9b65f/W+uX/1vrl/9b65f/W+uX/1vrl/9b65f/W+uX/1vrl/9b65f8+umP/////AP///wD///8A////AEfCbP/X++X/1/vl/9f75f/X++X/1/vl/9f75f/X++X/1/vl/9f75f/X++X/1/vl/9f75f/X++X/1/vl/9f75f/X++X/1/vl/9f75f8+umP/////AP///wD///8A////AFTGdoVHwmz/R8Js/0fCbP9Hwmz/R8Js/0fCbP9Hwmz/R8Js/0fCbP9Hwmz/R8Js/0XBav9EwWn/QsBo/0LAaP9BwGf/QL9m/z+9Zf9IwmyF////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      <ToDoView Name="Active Actions">
+        <UI InclClosedCntx="false">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="-13" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="6" Width="773"/>
+          <Column ID="2" Pos="1" Width="64"/>
+          <Column ID="3" Pos="7" Width="100"/>
+          <Column ID="4" Pos="3" Width="100"/>
+          <Column ID="5" Pos="5" Width="100"/>
+          <Column ID="7" Pos="9" Width="79"/>
+          <Column ID="25" Pos="0" Width="184"/>
+          <Column ID="27" Pos="28" Width="22"/>
+        </Columns>
+        <IcoData Caption="Active Actions-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wB5j6i6aYis+2CBqf9ce6X/Wnij/1hzof9UcJ//VW2c/09nmP9PZ5j/TWWV/01jlf9MYZP/SVyO/0lcjv9JXI7/SVyO/1Bjkf5mc5O7////AP///wD///8A////AP///wBskLD7w8nS/8vLy//Kysr/ysrK/8vLy//Ly8v/y8vL/83Nzf/Nzc3/zc3N/8vLy//IyMj/ycnJ/8nJyf/Jycn/ysrK/9vc3v9QY5H8////AP///wD///8A////AP///wBrkbb/y8vL//Lx8v/w7/D/8fDx//Hw8f/x8PH/8fDx//Dw8P/w7/D/8O/w//Dw8P/w8PD/8PDw//Dw8P/x8PH/8vHy/8nJyf9JXI7/////AP///wD///8A////AP///wBqkrb/y8vL//Px8f/ExMP/xsbE/8fHxf9GW7z/x8fF/+/u7//v7u//7+7v/+/u7//v7u//7+7v/+/u7//v7u//8fDx/8nJyf9JXI7/////AP///wD///8A////AP///wBtlLb/zc3N//b09P/FxcX////9/1dt0v8kP7z/SmDF//Dv8P/w7/D/8O/w//Dv8P/w7/D/8O/w//Dv8P/w7/D/8fDx/8rKyv9JXI7/////AP///wD///8A////AP///wBvlbn/zc3N//j49f/Hx8f/V23U/yRAw/93idX/JEDB/1lv2P/w7/D/xcXE/8fHxP/GxsT/xsbE/8PCwP/Bwb//8fDx/8rKyv9JXY//////AP///wD///8A////AP///wB0nsH/0dHR/////P9HXMX/JULH/3eJ2///////YHPH/yVBxP9edt//9/b0//f29P/39vT/9fPy//Py8v/z8vL/9PPy/8rKyv9NZJX/////AP///wD///8A////AP///wB1n8P/09PT/////v/Hx8f/X3DH/8fHx//Hx8f/x8fH/3iM4f8lQsn/Y3nh//r59v/6+fb/+fj1//j29P/49vT/9vb0/8/Pz/9PZpf/////AP///wD///8A////AP///wB1osT/09PT////////////////////////////////////+/97j+b/JkTO/22D4v////r///34//78+P/+/Pj/+vj2/87Ozv9RaJn/////AP///wD///8A////AP///wB2pMb/09PT////////////////////////////////////+/////z/gJPn/yhH1v90ieX///34//78+P/+/Pj//Pv3/87Ozv9TbJr/////AP///wD///8A////AP///wB2pMb/1tbW///////ExMP/xsbE/8fHxf9GW7z/x8fF////+/////v////9/4mb6P8sStb/c4jk////+v////r////6/83Nzf9TbJr/////AP///wD///8A////AP///wB2pMf/1tbW///////FxcX////9/1dt0v8kP7z/SmDF//////////v////7/////v94idT////8////+/////v////7/9DQ0P9Vbpz/////AP///wD///8A////AP///wB2psn/1tbW///////Hx8f/V23U/yRAw/93idX/JEDB/1lv2P////v/xcXE/8fHxP/GxsT/xsbE/8PCwP/Bwb/////7/8/Pz/9Xc6D/////AP///wD///8A////AP///wB3psv/2tra//////9HXMX/JULH/3eJ2///////YHPH/yVBxP9edt/////7/////v////7////8////+/////v////8/9DQ0P9adqL/////AP///wD///8A////AP///wB3psz/39/f///////Hx8f/X3DH/8fHx//Hx8f/x8fH/3iM4f8lQsn/Y3nh/////v////7////8////+/////v////+/9TU1P9ceqT/////AP///wD///8A////AP///wB4p87/4ODg//////////////////////////////////////97j+b/JkTO/22D4v////7////8////+/////v//////9bW1v9ff6j/////AP///wD///8A////AP///wB5qM//4eHh////////////////////////////////////////////gJPn/yhH1v90ieX////8////+/////v//////9fX1/9hgqr/////AP///wD///8A////AP///wB4qM//4+Pj/////////////////////////////////////////////////4mb6P8sStb/c4jk/////////////////9ra2v9ihaz/////AP///wD///8A////AP///wB1pc3/8fHx/+Pj4//Excb/sbOw/7a1sf+5ubf/u7u6/729vf+9vb3/vb29/729vf94idT/tLOu/7Cyrv/BxMX/3Nzc/+np6f9hhq3/////AP///wD///8A////AP///wBvncb+X4/B/1yNv/+FnLP/wcHA/+7u7v/29vb/+Pj4//f39//39/f/9/f3//f39//39/f/7u7u/8LCwf+Dlqn/UXSi/1R1o/9jhKv+////AP///wD///8A////AP///wB0j6hkcZCtsHGRr79tiqjHt7vE+cjKz/yztbv+xMbI/8rIx//FxcP/yMjG/8jIxv/R0dH/yMrP/7i6wv9ogZrIbIagv2yFn7Zvg5lk////AP///wD///8A////AP///wCAgIAAgICAAICAgAB2dnYAh4eHAIeHhwB5eXkAgICAAIODgwC3tbTQq6ur+nFxcQCKiooAgYGBAHl5eQCHh4cAiYmJAHR0dAB/f38A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+      <ToDoView Name="Today">
+        <UI InclClosedCntx="false">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="-13" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="3" Width="773"/>
+          <Column ID="2" Pos="2" Width="64"/>
+          <Column ID="3" Pos="7" Width="100"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="5" Pos="6" Width="100"/>
+          <Column ID="7" Pos="14" Width="79"/>
+          <Column ID="25" Pos="0" Width="184"/>
+          <Column ID="27" Pos="28" Width="22"/>
+        </Columns>
+        <IcoData Caption="Active Actions-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wB5j6i6aYis+2CBqf9ce6X/Wnij/1hzof9UcJ//VW2c/09nmP9PZ5j/TWWV/01jlf9MYZP/SVyO/0lcjv9JXI7/SVyO/1Bjkf5mc5O7////AP///wD///8A////AP///wBskLD7w8nS/8vLy//Kysr/ysrK/8vLy//Ly8v/y8vL/83Nzf/Nzc3/zc3N/8vLy//IyMj/ycnJ/8nJyf/Jycn/ysrK/9vc3v9QY5H8////AP///wD///8A////AP///wBrkbb/y8vL//Lx8v/w7/D/8fDx//Hw8f/x8PH/8fDx//Dw8P/w7/D/8O/w//Dw8P/w8PD/8PDw//Dw8P/x8PH/8vHy/8nJyf9JXI7/////AP///wD///8A////AP///wBqkrb/y8vL//Px8f/ExMP/xsbE/8fHxf9GW7z/x8fF/+/u7//v7u//7+7v/+/u7//v7u//7+7v/+/u7//v7u//8fDx/8nJyf9JXI7/////AP///wD///8A////AP///wBtlLb/zc3N//b09P/FxcX////9/1dt0v8kP7z/SmDF//Dv8P/w7/D/8O/w//Dv8P/w7/D/8O/w//Dv8P/w7/D/8fDx/8rKyv9JXI7/////AP///wD///8A////AP///wBvlbn/zc3N//j49f/Hx8f/V23U/yRAw/93idX/JEDB/1lv2P/w7/D/xcXE/8fHxP/GxsT/xsbE/8PCwP/Bwb//8fDx/8rKyv9JXY//////AP///wD///8A////AP///wB0nsH/0dHR/////P9HXMX/JULH/3eJ2///////YHPH/yVBxP9edt//9/b0//f29P/39vT/9fPy//Py8v/z8vL/9PPy/8rKyv9NZJX/////AP///wD///8A////AP///wB1n8P/09PT/////v/Hx8f/X3DH/8fHx//Hx8f/x8fH/3iM4f8lQsn/Y3nh//r59v/6+fb/+fj1//j29P/49vT/9vb0/8/Pz/9PZpf/////AP///wD///8A////AP///wB1osT/09PT////////////////////////////////////+/97j+b/JkTO/22D4v////r///34//78+P/+/Pj/+vj2/87Ozv9RaJn/////AP///wD///8A////AP///wB2pMb/09PT////////////////////////////////////+/////z/gJPn/yhH1v90ieX///34//78+P/+/Pj//Pv3/87Ozv9TbJr/////AP///wD///8A////AP///wB2pMb/1tbW///////ExMP/xsbE/8fHxf9GW7z/x8fF////+/////v////9/4mb6P8sStb/c4jk////+v////r////6/83Nzf9TbJr/////AP///wD///8A////AP///wB2pMf/1tbW///////FxcX////9/1dt0v8kP7z/SmDF//////////v////7/////v94idT////8////+/////v////7/9DQ0P9Vbpz/////AP///wD///8A////AP///wB2psn/1tbW///////Hx8f/V23U/yRAw/93idX/JEDB/1lv2P////v/xcXE/8fHxP/GxsT/xsbE/8PCwP/Bwb/////7/8/Pz/9Xc6D/////AP///wD///8A////AP///wB3psv/2tra//////9HXMX/JULH/3eJ2///////YHPH/yVBxP9edt/////7/////v////7////8////+/////v////8/9DQ0P9adqL/////AP///wD///8A////AP///wB3psz/39/f///////Hx8f/X3DH/8fHx//Hx8f/x8fH/3iM4f8lQsn/Y3nh/////v////7////8////+/////v////+/9TU1P9ceqT/////AP///wD///8A////AP///wB4p87/4ODg//////////////////////////////////////97j+b/JkTO/22D4v////7////8////+/////v//////9bW1v9ff6j/////AP///wD///8A////AP///wB5qM//4eHh////////////////////////////////////////////gJPn/yhH1v90ieX////8////+/////v//////9fX1/9hgqr/////AP///wD///8A////AP///wB4qM//4+Pj/////////////////////////////////////////////////4mb6P8sStb/c4jk/////////////////9ra2v9ihaz/////AP///wD///8A////AP///wB1pc3/8fHx/+Pj4//Excb/sbOw/7a1sf+5ubf/u7u6/729vf+9vb3/vb29/729vf94idT/tLOu/7Cyrv/BxMX/3Nzc/+np6f9hhq3/////AP///wD///8A////AP///wBvncb+X4/B/1yNv/+FnLP/wcHA/+7u7v/29vb/+Pj4//f39//39/f/9/f3//f39//39/f/7u7u/8LCwf+Dlqn/UXSi/1R1o/9jhKv+////AP///wD///8A////AP///wB0j6hkcZCtsHGRr79tiqjHt7vE+cjKz/yztbv+xMbI/8rIx//FxcP/yMjG/8jIxv/R0dH/yMrP/7i6wv9ogZrIbIagv2yFn7Zvg5lk////AP///wD///8A////AP///wCAgIAAgICAAICAgAB2dnYAh4eHAIeHhwB5eXkAgICAAIODgwC3tbTQq6ur+nFxcQCKiooAgYGBAHl5eQCHh4cAiYmJAHR0dAB/f38A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+      <ToDoView Name="Today-through">
+        <UI InclClosedCntx="false" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="-13" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="DueDateTime" ConditionName="today" ConditionID="416" LinkExpr="OR"/>
+            <Rule Field="StartDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="3" Width="790"/>
+          <Column ID="2" Pos="2" Width="64"/>
+          <Column ID="3" Pos="7" Width="100"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="5" Pos="6" Width="100"/>
+          <Column ID="7" Pos="10" Width="79"/>
+          <Column ID="25" Pos="0" Width="184"/>
+          <Column ID="27" Pos="28" Width="22"/>
+        </Columns>
+        <IcoData Caption="Active Actions-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wB5j6i6aYis+2CBqf9ce6X/Wnij/1hzof9UcJ//VW2c/09nmP9PZ5j/TWWV/01jlf9MYZP/SVyO/0lcjv9JXI7/SVyO/1Bjkf5mc5O7////AP///wD///8A////AP///wBskLD7w8nS/8vLy//Kysr/ysrK/8vLy//Ly8v/y8vL/83Nzf/Nzc3/zc3N/8vLy//IyMj/ycnJ/8nJyf/Jycn/ysrK/9vc3v9QY5H8////AP///wD///8A////AP///wBrkbb/y8vL//Lx8v/w7/D/8fDx//Hw8f/x8PH/8fDx//Dw8P/w7/D/8O/w//Dw8P/w8PD/8PDw//Dw8P/x8PH/8vHy/8nJyf9JXI7/////AP///wD///8A////AP///wBqkrb/y8vL//Px8f/ExMP/xsbE/8fHxf9GW7z/x8fF/+/u7//v7u//7+7v/+/u7//v7u//7+7v/+/u7//v7u//8fDx/8nJyf9JXI7/////AP///wD///8A////AP///wBtlLb/zc3N//b09P/FxcX////9/1dt0v8kP7z/SmDF//Dv8P/w7/D/8O/w//Dv8P/w7/D/8O/w//Dv8P/w7/D/8fDx/8rKyv9JXI7/////AP///wD///8A////AP///wBvlbn/zc3N//j49f/Hx8f/V23U/yRAw/93idX/JEDB/1lv2P/w7/D/xcXE/8fHxP/GxsT/xsbE/8PCwP/Bwb//8fDx/8rKyv9JXY//////AP///wD///8A////AP///wB0nsH/0dHR/////P9HXMX/JULH/3eJ2///////YHPH/yVBxP9edt//9/b0//f29P/39vT/9fPy//Py8v/z8vL/9PPy/8rKyv9NZJX/////AP///wD///8A////AP///wB1n8P/09PT/////v/Hx8f/X3DH/8fHx//Hx8f/x8fH/3iM4f8lQsn/Y3nh//r59v/6+fb/+fj1//j29P/49vT/9vb0/8/Pz/9PZpf/////AP///wD///8A////AP///wB1osT/09PT////////////////////////////////////+/97j+b/JkTO/22D4v////r///34//78+P/+/Pj/+vj2/87Ozv9RaJn/////AP///wD///8A////AP///wB2pMb/09PT////////////////////////////////////+/////z/gJPn/yhH1v90ieX///34//78+P/+/Pj//Pv3/87Ozv9TbJr/////AP///wD///8A////AP///wB2pMb/1tbW///////ExMP/xsbE/8fHxf9GW7z/x8fF////+/////v////9/4mb6P8sStb/c4jk////+v////r////6/83Nzf9TbJr/////AP///wD///8A////AP///wB2pMf/1tbW///////FxcX////9/1dt0v8kP7z/SmDF//////////v////7/////v94idT////8////+/////v////7/9DQ0P9Vbpz/////AP///wD///8A////AP///wB2psn/1tbW///////Hx8f/V23U/yRAw/93idX/JEDB/1lv2P////v/xcXE/8fHxP/GxsT/xsbE/8PCwP/Bwb/////7/8/Pz/9Xc6D/////AP///wD///8A////AP///wB3psv/2tra//////9HXMX/JULH/3eJ2///////YHPH/yVBxP9edt/////7/////v////7////8////+/////v////8/9DQ0P9adqL/////AP///wD///8A////AP///wB3psz/39/f///////Hx8f/X3DH/8fHx//Hx8f/x8fH/3iM4f8lQsn/Y3nh/////v////7////8////+/////v////+/9TU1P9ceqT/////AP///wD///8A////AP///wB4p87/4ODg//////////////////////////////////////97j+b/JkTO/22D4v////7////8////+/////v//////9bW1v9ff6j/////AP///wD///8A////AP///wB5qM//4eHh////////////////////////////////////////////gJPn/yhH1v90ieX////8////+/////v//////9fX1/9hgqr/////AP///wD///8A////AP///wB4qM//4+Pj/////////////////////////////////////////////////4mb6P8sStb/c4jk/////////////////9ra2v9ihaz/////AP///wD///8A////AP///wB1pc3/8fHx/+Pj4//Excb/sbOw/7a1sf+5ubf/u7u6/729vf+9vb3/vb29/729vf94idT/tLOu/7Cyrv/BxMX/3Nzc/+np6f9hhq3/////AP///wD///8A////AP///wBvncb+X4/B/1yNv/+FnLP/wcHA/+7u7v/29vb/+Pj4//f39//39/f/9/f3//f39//39/f/7u7u/8LCwf+Dlqn/UXSi/1R1o/9jhKv+////AP///wD///8A////AP///wB0j6hkcZCtsHGRr79tiqjHt7vE+cjKz/yztbv+xMbI/8rIx//FxcP/yMjG/8jIxv/R0dH/yMrP/7i6wv9ogZrIbIagv2yFn7Zvg5lk////AP///wD///8A////AP///wCAgIAAgICAAICAgAB2dnYAh4eHAIeHhwB5eXkAgICAAIODgwC3tbTQq6ur+nFxcQCKiooAgYGBAHl5eQCHh4cAiYmJAHR0dAB/f38A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+      <ToDoView Name="Week">
+        <UI DTmax="42482" DTmaxS="Today" InclClosedCntx="false" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="-13" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="DueDateTime" ConditionName="today" ConditionID="416" LinkExpr="OR"/>
+            <Rule Field="StartDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="3" Width="757"/>
+          <Column ID="2" Pos="2" Width="64"/>
+          <Column ID="3" Pos="7" Width="100"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="5" Pos="6" Width="100"/>
+          <Column ID="7" Pos="11" Width="79"/>
+          <Column ID="25" Pos="0" Width="217"/>
+          <Column ID="27" Pos="28" Width="22"/>
+        </Columns>
+        <IcoData Caption="Active Actions-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wB5j6i6aYis+2CBqf9ce6X/Wnij/1hzof9UcJ//VW2c/09nmP9PZ5j/TWWV/01jlf9MYZP/SVyO/0lcjv9JXI7/SVyO/1Bjkf5mc5O7////AP///wD///8A////AP///wBskLD7w8nS/8vLy//Kysr/ysrK/8vLy//Ly8v/y8vL/83Nzf/Nzc3/zc3N/8vLy//IyMj/ycnJ/8nJyf/Jycn/ysrK/9vc3v9QY5H8////AP///wD///8A////AP///wBrkbb/y8vL//Lx8v/w7/D/8fDx//Hw8f/x8PH/8fDx//Dw8P/w7/D/8O/w//Dw8P/w8PD/8PDw//Dw8P/x8PH/8vHy/8nJyf9JXI7/////AP///wD///8A////AP///wBqkrb/y8vL//Px8f/ExMP/xsbE/8fHxf9GW7z/x8fF/+/u7//v7u//7+7v/+/u7//v7u//7+7v/+/u7//v7u//8fDx/8nJyf9JXI7/////AP///wD///8A////AP///wBtlLb/zc3N//b09P/FxcX////9/1dt0v8kP7z/SmDF//Dv8P/w7/D/8O/w//Dv8P/w7/D/8O/w//Dv8P/w7/D/8fDx/8rKyv9JXI7/////AP///wD///8A////AP///wBvlbn/zc3N//j49f/Hx8f/V23U/yRAw/93idX/JEDB/1lv2P/w7/D/xcXE/8fHxP/GxsT/xsbE/8PCwP/Bwb//8fDx/8rKyv9JXY//////AP///wD///8A////AP///wB0nsH/0dHR/////P9HXMX/JULH/3eJ2///////YHPH/yVBxP9edt//9/b0//f29P/39vT/9fPy//Py8v/z8vL/9PPy/8rKyv9NZJX/////AP///wD///8A////AP///wB1n8P/09PT/////v/Hx8f/X3DH/8fHx//Hx8f/x8fH/3iM4f8lQsn/Y3nh//r59v/6+fb/+fj1//j29P/49vT/9vb0/8/Pz/9PZpf/////AP///wD///8A////AP///wB1osT/09PT////////////////////////////////////+/97j+b/JkTO/22D4v////r///34//78+P/+/Pj/+vj2/87Ozv9RaJn/////AP///wD///8A////AP///wB2pMb/09PT////////////////////////////////////+/////z/gJPn/yhH1v90ieX///34//78+P/+/Pj//Pv3/87Ozv9TbJr/////AP///wD///8A////AP///wB2pMb/1tbW///////ExMP/xsbE/8fHxf9GW7z/x8fF////+/////v////9/4mb6P8sStb/c4jk////+v////r////6/83Nzf9TbJr/////AP///wD///8A////AP///wB2pMf/1tbW///////FxcX////9/1dt0v8kP7z/SmDF//////////v////7/////v94idT////8////+/////v////7/9DQ0P9Vbpz/////AP///wD///8A////AP///wB2psn/1tbW///////Hx8f/V23U/yRAw/93idX/JEDB/1lv2P////v/xcXE/8fHxP/GxsT/xsbE/8PCwP/Bwb/////7/8/Pz/9Xc6D/////AP///wD///8A////AP///wB3psv/2tra//////9HXMX/JULH/3eJ2///////YHPH/yVBxP9edt/////7/////v////7////8////+/////v////8/9DQ0P9adqL/////AP///wD///8A////AP///wB3psz/39/f///////Hx8f/X3DH/8fHx//Hx8f/x8fH/3iM4f8lQsn/Y3nh/////v////7////8////+/////v////+/9TU1P9ceqT/////AP///wD///8A////AP///wB4p87/4ODg//////////////////////////////////////97j+b/JkTO/22D4v////7////8////+/////v//////9bW1v9ff6j/////AP///wD///8A////AP///wB5qM//4eHh////////////////////////////////////////////gJPn/yhH1v90ieX////8////+/////v//////9fX1/9hgqr/////AP///wD///8A////AP///wB4qM//4+Pj/////////////////////////////////////////////////4mb6P8sStb/c4jk/////////////////9ra2v9ihaz/////AP///wD///8A////AP///wB1pc3/8fHx/+Pj4//Excb/sbOw/7a1sf+5ubf/u7u6/729vf+9vb3/vb29/729vf94idT/tLOu/7Cyrv/BxMX/3Nzc/+np6f9hhq3/////AP///wD///8A////AP///wBvncb+X4/B/1yNv/+FnLP/wcHA/+7u7v/29vb/+Pj4//f39//39/f/9/f3//f39//39/f/7u7u/8LCwf+Dlqn/UXSi/1R1o/9jhKv+////AP///wD///8A////AP///wB0j6hkcZCtsHGRr79tiqjHt7vE+cjKz/yztbv+xMbI/8rIx//FxcP/yMjG/8jIxv/R0dH/yMrP/7i6wv9ogZrIbIagv2yFn7Zvg5lk////AP///wD///8A////AP///wCAgIAAgICAAICAgAB2dnYAh4eHAIeHhwB5eXkAgICAAIODgwC3tbTQq6ur+nFxcQCKiooAgYGBAHl5eQCHh4cAiYmJAHR0dAB/f38A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+      <ToDoView Name="Active Actions by Context">
+        <UI InclClosedCntx="false">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="2"/>
+        </Group>
+        <Sort Srt1="-13" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+        <IcoData Caption="Active Actions by Context-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAuLi4ANTY3AENAPQCRgXUAfG9mAEE+Ows7NjNHfGpcnZuDcOWdhnT4qJB9/p+Lev+finr/pI17/aKJdfWUfWrQXlNKeHZqXx49OjcAfWteAG1hWAAdICIAPDw8AEFBQQAuLi4ANTY3AENAPQCQgHUAdmlhEG9gVI+kiHP6t5yI/8q0ov/oz77//+jW///05P//9Ob/+ODN/9rCsf+6oY7/p4x2/52Db81OR0FSlH5uAGleVQAbHiABPT09AENDQwAvLy8BNDU2ADs6OACHeW8QiHJhsKyOd//awq7///Dg//vt3//p08P/28a0/NfBr/jZwrD/38e0//Hdz///8uL/7dbE/7idiv+hhnH4wKKLZU5IRAAaHiIAODg5Azo6OgAqKioDOzs8AFZRTAuJc2K2tJiD//rm1P//7dz/2cGu/7+jjbexl4KDqJWGYaqWiFqsnJBruJ6MhcSok57Frprq79vK///15//QuKT/n4Ru+29hV1tEQkAAKCgoAiQkJAArLC0ANDMzB5B7a5S1mYL//u3d//Li0v/HrJfrsZuKd7afjgC+p5QAtph2ALafjACuiW0AmYFvAJ+KegC3o5I2vKCKrtbArv//9uj/y7Og/7GTfPGZhHItKiwsABYcIAAyNTYAXVRMJa+Sfv/249H/9+bU/8Knk9KIe3EhinloAK+SeACoj3gAvY1PAK2MagCmZzQAZlFCAGBSRhWTg3YAp5KAAK6Wg5rWv6z///Pl/7yjj/+sj3mVinhqBX1uYQBxaWISmYRyntW6pf//8eH/xa+d8K2Odk2GaVFLeGBHnZBwUZ2WdVGdnXhPnpBvT52Zck2elXdesZd9a8txWUm2d2NUXaCMfACxmYac5tHC/+3Ww/+rkn/1uZyGLcOmjgCLfXEtsZiE//ro1v/p0sD/q5WDhLiagEbNqYb838Gk/+fNpv+3n5//1ruk/+HEpf/YvKH/vZ19/7qbgP/St6P/o4p4/3FaSnuji3kAyK2Xufjk0/++p5T/qI96Zq6WggCRf29Ux66a//3q2//Ir5rhuKCOC7mehGbJq4z//+e//9nExf9NXL//mpK////oyP//5sf/5cis/9W5nv7bwKn/4ce1/6yVgf9+Y1BHrpJ+VN/Luv3Vu6j/sZWBn7SYgweii3qT3MOu//Hbyv+zm4m7t5p+AKJ8Ume8mGz/s52f/0dTtf8bPMD/KkS6/5GGrv/uz7L/6syu/8qqifOtjWu5uqSV2PPbxv+ulIHrgGpbJcixn6zr0r//s5uHyLOXgSSjjHq36M+7/+nUw/+nkYCTsJF3AKN2RF2QdHH/QlGz/yhMyf8qRr//ID6+/yxEuf+Kgan/za6S/62JY/mrgllSqpF/UODLu/7Ntqb/g2dUZrGVgnbmzrz9sJqI2LGWgEmhiHfQ6c+7/+bTxP+qjmyChXeYAjg3l3VLVKX/N17X/y1Nxf9nZaX/PU6z/x9Cxv8uSMD/fHOe/6iDX/+wg1h0sJmCALiilLjgw6//qY563ZJ8alTaxrfRrZeG9LCVf1WkjXu55sy4/+bQwP+sjWiWhXaYBAoftL05XtH/NVnP/3Buq//bu6D/qZil/zdMu/8iR83/L0zG/21ghP+ac1+XsJmQALmaeHbu1sX/zLSh/4t0YkLPuqu1t6CO/7OYgkyfiXeM2L+r//Pcy/+4m3rLiHqSBVZKjzM6PpP1YWWu//PUuf//5sL//t+9/7yqvv9FW8z/LFbZ/zhTwv8+QKq7U1W3AK2Qe2jw2cL/yrWl/5R2YkCslYJasZyKobabhSKNfW5Nx62a///05P/Cq5z5lYJvXcaRVgCNXUWgrZSH/+XHo//ixqr/4sSn/+nJpf+fjqH/PVK8/ztk3v83Vtn4IDLMTm5mn2z/7Lz/ybOl/5d6Z1OulIIAtJ+NALechgCAc2kktp+N2vjm1f/r08P/i3dp2KGAZBC6gEYpoHlRnY5xVZ2OcFOdkHJWnZN0VJ2be1edZ1yPozNQ1PBHdub/Kk/f72hjsNf42rL/yLCW75J2ZkCaemYAoYd0ALaahACHeG8HrJOAXdG2ov//8+H/uJyK/4NuW7CZgGYAiXBZAKKHcACmhmgAoIBgAKKBXwCdfmMAXVmdACo50lIyUePgQHPv/0Rj5f+Debj/spJxuZt1RxWUbUMAlG1DAMOgcwCBdGwAs5eCDq2Wg9fw2cX/+uza/5+DcP9rW0+5amBaS7KaiACjiHIAjHZhAJR8ZgCQemcAcWZ5AGFaiABTUJGGM1DN/zxx9/87YOT/Zl+huXFhjwNlXJkAZl2ZAHdwqgCljn0At5uFAKuSfkO4nov89+nY//vq2f+4m4X/fmZU9IBrWpt+b2JsgXNpNol7cBaGeGwvfm5WZH1lQI+KbUfSj3+k/1h39f88dfT/PWbt+jlM4I86Sd0LOUveADRF2QC9n4gAuJuFALabhQCljnxUsJWC7+vXxP//9OL/6M26/6+XhP+OdWL/emJR4nJbStF4YE7ejHJf/a+Wg//oz7b/9dey/4t8pf07Xd3/PmXo+kNQ0GFFTs0GRE/OAERPzgC3m4UAuJuFALabhQCqkoIAn4d2QauRfdTIsJz/9NzJ//7m1f/y2MX/48q3/+DLuv/iybf/79fD//jgzv/jyrf/uJ2E572bc0dvbLJnNErZXkVRzQBETs4ARE/OAERPzgC3m4UAuJuFALabhQCrk4IAp499AKGKeRqfh3ZUq5OAxbiei/3Irpr/1r2p/9/HtP/awKz/yrCc/7mgjvGkjXyMoYl4IMindwB+dKgAMkfYAERSzwBETs4ARE/OAERPzgC3m4UAuJuFALabhQCrk4IAp499AKmSgACPf3MAfHBmIH1wZTGFdWlOkoBwc5SAcJiWgnJ9j3xuWYR1aTSAdGoVgHRsAK+UbgCAdq4AM0jZAERSzwBETs4ARE/OAERPzgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+      <ToDoView Name="Next Actions by Project">
+        <UI ActionFlt="2">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="6" Asc="false"/>
+        </Group>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+        <IcoData Caption="Next Actions by Project-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AK+nkabLu5z/y7uc/8u7nP/Lu5z/y7uc/8u7nP/Lu5z/y7uc/8u7nP/Lu5z/y7uc/8u7nP/Lu5z/yrqb/8u7nP/Lu5z/y7uc/8u7nP/P3cX/y7ucAP///wD///8A////AM2/of/x69//8uzg//Ls3v/x69//8uvf//Lr3//x69//8evf9/Lr3v/y697/8evf//Lr3//y697/8u7h//Hs3//y7N//8uzf//Ls3//Lu5z/y7ucAP///wD///8A////ANTHrP/z7eT/8+7j//Pu4v/z7uD/8+/g//Lr3//x69//VKRx//Lr3v/y697/8evf//Lr3//y697/8u7h//Hs3//y7N//8uzf//Ls3//39e3/9/XtAOfh0wD///8A////ANbIr//z7uX/8+/k//Pu4//07+T/9O7j//Lr3/9XqHX/JI1P/1Wsdf/y697/8evf//Lr3//y697/8u7h//Hs3//y7N//8uzf//Ls3//39e3/m8SZ/ySNTwD///8A////ANbJsP/08Ob/9PDm//Tw5v/08Ob/9PDm/1irdv8nk1T/cbGF/yaSUf9Vsnf/9O/l//Tv5f/07+X/5efY/+fo2f/n6Nn/5+jZ/+fo2f/w6Nn/JI1P/0aeV4D///8A////ANjLsv/18Of/9fDn//Xw5//18Of/9fDn//f06v9ztYn/9/Tq/3K4if8kllP/W7h5//Xw6P/O3cr/JI1P/ySNT/8kjU//JI1P/ySNT/8kjU//JI1P/ySNT/////8A////ANnMtP/28uj/9vLo//by6P/28uj/9vLo//f06v/39Or/9/Tq//f06v9yvYz/KZlW/1rAff/28ur/5urc/+fq3P/n6tz/5+rc/+jq2v/w6Nn/JI1P/0aeV4D///8A////ANnNtv/39Oz/9/Ts//f07P/39Oz/9/Ts//f06v/39Or/9/Tq//f06v/39Or/d8KN/yegVv9ex33/9/Tq//f06v/39Or/9/Tq//f06v/39e3/m8SZ/////wD///8A////ANnPuP/39e7/7b15/9+xb/+7k1n/u5NZ/7uTWf+7k1n/u5NZ//Tw5f/39e3/9/Xt/3bJkP/39e3/9/Xt//f17f/39e3/9/Xt//f17f/39e3/9/XtAP///wD///8A////ANrPuf/69u///suG/+29ef/LoWT/u5NZ//Xw5v/18Ob/u5NZ//Xx5v/69u//+vbv//r27//69u//+vbv//r27//69u//+vbv//r27//Lu5z/y7ucAP///wD///8A////ANrRu//69/H//9CS//7Lhv/dsG//xZxg/7uTWf+7k1n/u5NZ//bx5//69/H/+vfx//r38f/69/H/+vfx//r38f/69/H/+vfx//r38f/Lu5z/y7ucAP///wD///8A////ANzTvf/69/T/+vf0//r39P/69/T/+vf0//r39P/69/T/+vf0//r39P/69/T/+vf0//r39P/69/T/+vf0//r39P/69/T/+vf0//r39P/Lu5z/y7ucAP///wD///8A////ANzUv//6+PX/+/n1//v59f/7+Pb/+/j2//v59v/7+fX/maXc//v59f/7+fb/+/n1//v59f/7+fX/+/n1//v59f/7+fX/+/n1//v59f/Lu5z/AAAABQAAAAH///8A////AN3Vwv/7+Pf/+/v3//v59v/7+fb/+/n2//v59v+ZpuD/JUG+/5mn4f/7+/b/+/v3//v79//7+/f/+/v3//v79//7+vf/+/v3//v79//Lu5z/AAAABAAAAAH///8A////AN/Ww//8+fr//Pv6//37+v/8+/f//Pv3/5qn4v8mQ8b/rLbj/yVCw/+bqOb//Pv6//z7+f/CwsL/wsLC/8LCwv/CwsL/wsLC//37+//Lu5z/AAAAAwAAAAH///8A////AN/Ww//++/v//vv7//79+//+/fn//vz5//78+v/S1/D//fz7/6y36P8mQ8b/n6zq//78+//++/r//vv6//77+v/++vr//vr6//37+//Lu5z/AAAAAwAAAAD///8A////AN/Ww//+/vz//v78//7+/P/+/fz//v78//7+/P/+/vz//v38//78/P+tuez/J0XL/8HK7v/+/v3//v38//78/P/+/Pz//vv8//78/P/Lu5z/AAAAAgAAAAD///8A////AN/Ww////v//7b15/9+xb/+7k1n/u5NZ/7uTWf+7k1n/u5NZ///+//////7/wsrw///////+//7////////////+/v7//v7+///+///Lu5z/AAAAAgAAAAH///8A////AN/Ww////////suG/+29ef/LoWT/u5NZ////////////u5NZ///////////////////////////////////////////////////////Lu5z/AAAAAQAAAAD///8A////AN/Ww////////9CS//7Lhv/dsG//xZxg/7uTWf+7k1n/u5NZ///////////////////////////////////////////////////////Lu5z/y7ucAP///wD///8A////AN/Ww//////7/////v////v/////////+/////v////7////+/////v////7////+/////v////7////+/////v////7////+/////vLu5z/y7ucAP///wD///8A////AObj2Mzf1sP/39bD/9/Ww//f1sP/39bD/9/Ww//f1sP/39bD/9/Ww//f1sP/39bD/9/Ww//d1cL/3NXA/9zUv//c073/3NO9/9zTvf/f2MfM////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+      <ToDoView Name="Active Actions by Flag">
+        <UI InclClosedCntx="false" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group ShowGroupName="false">
+          <Grp1 GroupBy="26"/>
+        </Group>
+        <Sort Srt1="-13" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="Flag" ConditionName="&lt;&gt;" DataValue="(none)" DataType="Integer" ConditionID="1302"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1239"/>
+          <Column ID="1" Pos="1" Width="21"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Active Starred">
+        <UI InclClosedCntx="false" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="true"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="Starred" ConditionName="is true" ConditionID="310"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Active Goals">
+        <UI InclClosedCntx="false" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group ShowGroupName="false">
+          <Grp1 GroupBy="4"/>
+        </Group>
+        <Sort Srt1="-13" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="Goal" ConditionName="&lt;&gt;" DataValue="None" DataType="Integer" ConditionID="702"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Start next 7 days">
+        <UI ActionFlt="1" DTmax="42489" DTmaxS="Today + 7" HideUndated="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group ShowGroupName="false" GroupOnlyByDays="true">
+          <Grp1 GroupBy="9"/>
+        </Group>
+        <Sort Srt1="14" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="3" Pos="3" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Start next 30 days">
+        <UI ActionFlt="1" DTmax="42512" DTmaxS="Today + 30" HideUndated="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group ShowGroupName="false" GroupOnlyByDays="true">
+          <Grp1 GroupBy="9"/>
+        </Group>
+        <Sort Srt1="14" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="3" Pos="3" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Due next 7 days">
+        <UI ActionFlt="1" DTmax="42489" DTmaxS="Today + 7" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group ShowGroupName="false" GroupOnlyByDays="true">
+          <Grp1 GroupBy="10"/>
+        </Group>
+        <Sort Srt1="4" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today+7" DataType="TDateTime" ConditionID="414"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Due next 30 days">
+        <UI ActionFlt="1" DTmax="42512" DTmaxS="Today + 30" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group ShowGroupName="false" GroupOnlyByDays="true">
+          <Grp1 GroupBy="10"/>
+        </Group>
+        <Sort Srt1="4" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today+30" DataType="TDateTime" ConditionID="414"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+    </ToDoView>
+    <ToDoView Name="Completed" IsFolder="true">
+      <UI ActionFlt="4">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt/>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="481"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="22"/>
+      </Columns>
+      <IcoData Caption="Completed-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AL+/v9C2trb/tra2/7a2tv+3t7f/t7e3/7a2tv+3t7f/tra2/7a2tv+3t7f/t7e3/7W1tf+0tLT/s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+9vb3Q////AP///wD///8A////ALe3t//W1tb/1tbW/9bW1v/X19f/19fX/9bW1v/X19f/1tbW/9bW1v/X19f/19fX/9bW1v/W1tb/1tbW/9fX1//X19f/1tbW/9fX1/+ysrL/////AP///wD///8A////ALu7u//a2tr/2tra/9ra2v/a2tr/2tra/9ra2v/a2tr/2tra/9ra2v/a2tr/2tra/9ra2v/a2tr/2tra/9ra2v/a2tr/2tra/9ra2v+0tLT/////AP///wD///8A////ALu7u//b29v/3d3d/93d3f/d3d3/3d3d/93d3f/d3d3/3d3d/93d3f/d3d3/3d3d/93d3f/d3d3/3d3d/93d3f/d3d3/3d3d/93d3f+1tbX/////AP///wD///8A////AMDAwP/e3t7/3t7e/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/e3t7/3t7e/97e3v+2trb/////AP///wD///8A////AMLCwv/h4eH/4uLi/8zMzP/z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz/8zMzP/i4uL/4uLi/+Li4v+6urr/////AP///wD///8A////AMLCwv/k5OT/5OTk/8zMzP/z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz/8zMzP/k5OT/5OTk/+Tk5P+7u7v/////AP///wD///8A////AMPDw//m5ub/5ubm/8zMzP/z8/P/8/Pz//Pz8//z8/P/7Ozs/9PT0v/u7u7/8/Pz//Pz8//z8/P/8/Pz/8zMzP/m5ub/5ubm/+bm5v+8vLz/////AP///wD///8A////AMXFxf/p6en/6enp/8zMzP/z8/P/8/Pz//Pz8//q6ur/rqyr/5SSkP+wrq3/8vLy//Pz8//z8/P/8/Pz/8zMzP/p6en/6enp/+np6f+8vLz/////AP///wD///8A////AMbGxv/s7Oz/7Ozs/8zMzP/z8/P/8/Pz/+/v7/+xsK7/oJ6c/56cm/+enJr/vry7//Pz8//z8/P/8/Pz/8zMzP/s7Oz/7Ozs/+zs7P+9vb3/////AP///wD///8A////AMjIyP/t7e3/7e3t/8zMzP/z8/P/8/Pz/8TDwv+pqKb/5OTk/+vq6v+fnZv/lpOS/9LR0f/z8/P/8/Pz/8zMzP/t7e3/7e3t/+3t7f+9vb3/////AP///wD///8A////AMnJyf/v7+//7+/v/8zMzP/z8/P/3dzc/7Sysf/n5+f/8/Pz//Pz8//s7Oz/qqmn/5iVlP/g39//8/Pz/8zMzP/v7+//7+/v/+/v7/++vr7/////AP///wD///8A////AMrKyv/w8PD/8/Pz/8zMzP/y8vL/6ejo//Ly8v/z8/P/8/Pz//Pz8//z8/P/7u7u/5aTkv+enJr/6+vr/8zMzP/z8/P/8/Pz//Pz8//AwMD/////AP///wD///8A////AMzMzP/z8/P/8/Pz/8zMzP/z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz/+7u7v+qqaf/oZ+d/8rKyv/z8/P/8/Pz//Pz8//BwcH/////AP///wD///8A////AM3Nzf/29vb/+Pj4/8zMzP/z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//u7u7/o6Gg/6alpP/4+Pj/+Pj4//j4+P/Dw8P/////AP///wD///8A////AM/Pz//6+vr/+vr6/8zMzP/z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8PDw/5KQj/+6urr/+vr6//r6+v/Dw8P/////AP///wD///8A////ANHR0f/6+vr/+vr6/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8rKyv+enp3/19bW//r6+v/Dw8P/////AP///wD///8A////ANHR0f/+/v7/+vr6//r6+v/6+vr/+vr6//r6+v/6+vr/+vr6//r6+v/6+vr/+vr6//r6+v/6+vr/+vr6//r6+v/6+vr/rKur//r6+v/Dw8P/////AP///wD///8A////ANHR0f/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/ExMT/////AP///wD///8A////ANHR0f/////////////////////////////////////////////////////////////////////////////////////////////////FxcX/////AP///wD///8A////AN/f38zR0dH/0dHR/9HR0f/R0dH/0dHR/9HR0f/R0dH/0dHR/9HR0f/R0dH/0dHR/9HR0f/Pz8//zs7O/83Nzf/MzMz/y8vL/8jIyP/T09PM////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      <ToDoView Name="Completed Recently">
+        <UI ActionFlt="4" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="12" Asc="false"/>
+        </Group>
+        <Sort Srt1="-2" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="Complete" ConditionName="is true" ConditionID="310"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="13" Pos="13" Width="100"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Completed in Outline">
+        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="Complete" ConditionName="is true" ConditionID="310"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="13" Pos="13" Width="100"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Completed by Context">
+        <UI ActionFlt="4" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="2"/>
+        </Group>
+        <Sort Srt1="-2" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="Complete" ConditionName="is true" ConditionID="310"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="13" Pos="13" Width="100"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Completed by Project">
+        <UI ActionFlt="4" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="6" Asc="false"/>
+        </Group>
+        <Sort Srt1="-2" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="Complete" ConditionName="is true" ConditionID="310"/>
+            <Rule Field="ProjectName" ConditionName="is not empty" ConditionID="519"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="13" Pos="13" Width="100"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Completed by Flag">
+        <UI ActionFlt="4" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="26"/>
+        </Group>
+        <Sort Srt1="-2" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="Complete" ConditionName="is true" ConditionID="310"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1172"/>
+          <Column ID="1" Pos="1" Width="21"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="13" Pos="13" Width="145"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+    </ToDoView>
+    <ToDoView Name="More Views" IsFolder="true">
+      <UI ActionFlt="4">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt/>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="481"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="22"/>
+      </Columns>
+      <IcoData Caption="More Views-24x24">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AMC5peHDt5r/w7ea/8O3mv/Dt5r/w7ea/8S4m//EuJv/xLib/8O3mv/EuJv/xLib/8O3mv/Dt5r/xLib/8O3mf/CtZf/x72p2////wD///8A////AP///wD///8A////AMa6oP/9/fv/19bW/9fW1f/W1tX//Pv4//z69//8+fb/+/n1//v59P/7+PP/+/jy//v38f/69/H/+vfw//n27v/59u7/wrWY/////wD///8A////AP///wD///8A////AMe7oP/+/fz//v38/8LCwv/9/Pr//fz5/8LCwv/CwsL/mqfh/yVBvv+apuD/+/j0//v48/+gy6T/oMqk/6DKo//59u7/xLmc/////wD///8A////ANHDqO3Ju6D/ybug/8e7oP/+/v3//v38/8LCwv/+/Pv//fz6/8LCwv+ap+L/JkPG/6u14v8lQsP/mqfk//v59P9Gnlf/Rp5X/0aeV//69u//xrqf/////wD///8A////AMm7oP/4+PH/+Pjw/8e7oP///v3//v79/8LCwv/+/fv//vz7/8LCwv/9+/n/0tbu//z79/+rtuX/JkPG/52r5//7+fT/+/jz//r38P/59u//x7yh/////wD///8A////AMm7oP/4+PL/wsLC/8e7of////7///7+/8LCwv/+/v3//v38/8LCwv/+/Pv//fz6//38+f/8+/j/rLfo/ydFy/+/xun/+/n1//v48v/79/H/yL2i/////wD///8A////AMm7oP/4+PP/wsLC/8e7of///////////8LCwv///v3//v79/8LCwv/+/fv/wsLC/8LCwv/CwsL//Pv4/8DH6//8+fb//Pn2//v48//79/H/yb6k/////wD///8A////AMy8o//4+PP/+Pjz/8e8of///////////8LCwv///v7///79/8LCwv/CwsL/wsLC//39+//CwsL//fz5/6PG8f+jxvH/o8Xw/6PF7//79/L/ysCn/////wD///8A////AMy8o//4+PP/wsLC/8e8of///////////8LCwv/////////+/8LCwv/+/v3/wsLC/8LCwv/CwsL//fz7/0uR6v9Lker/S5Hq/0uR6v/7+PP/zMGp/////wD///8A////AMy9pP/4+PP/wsLC/8e8of//////wsLC/8LCwv/CwsL////+///+/v///v7//v79//79/P/+/fv//f37//38+//9+/n//fv5//z69v/7+fT/zMGp/////wD///8A////AM6/pv/39/b/wsLC/8i8of//////wsLC///////CwsL//////7uTWf+7k1n/u5NZ/7uTWf+7k1n/u5NZ/7uTWf+7k1n/u5NZ//z79//7+fX/zMGp/////wD///8A////AM/Ap//39/b/9/f2/8i8of//////wsLC/8LCwv/CwsL//////93JrP/dyav/3cmr/93Iq//cyKv/3Miq/9zIqv/cyKr/3Meq//z7+P/8+vb/zMOr/////wD///8A////ANDDq//69/X/wsLC/8i8of////////////////////////////////////7////+///+/f/+/v3//v38//79/P/+/fv//fz7//z7+P/8+vb/zMOr/////wD///8A////ANDErf/69vT/wsLC/9bPwP/IvKH/yLyh/8i8of/IvKH/yLyh/8i8of/IvKH/yLyh/8i8of/IvaL/yr6l/8zCqv/QxrL/1Mu4/9bOvP/Tzbr/1dHC2P///wD///8A////ANLHsP/7+fX/+/n1//v59f/7+fX/+vj0/6u24/9PZcf/q7bj//j38//39vL/9vXx//b18f/19PD/2861/////wD///8A////AP///wD///8A////AP///wD///8A////ANLIsv/7+vb/wsLC/8LCwv/7+vb/rLfl/1Fo0P+6wub/UGfN/6246P/7+vf/+/r3//v69//7+vf/4tW8/////wD///8A////AP///wD///8A////AP///wD///8A////ANbJtP/8+/r//Pv6//z7+P/8+/r//Pv4/9rd8v/8+/n/u8Tr/1Fo0P+wu+3//Pv6//z7+v/8+/r/4tW8/////wD///8A////AP///wD///8A////AP///wD///8A////ANjKtf/+/vz/7b15/7+WW/+7k1n/u5NZ/7uTWf+7k1n//vz8//78/P/N0vH//vz8//78/P/+/Pz/4ta9/////wD///8A////AP///wD///8A////AP///wD///8A////ANjKtf////7//suG///+/v///v/////+//////+7k1n///////7+/v/+/f7///7////+/////v//49a//////wD///8A////AP///wD///8A////AP///wD///8A////ANjKtf///////9CS/92wb//FnGD/u5NZ/7uTWf+7k1n/////////////////////////////////49a+/////wD///8A////AP///wD///8A////AP///wD///8A////ANjKtf//////////////////////////////////////////////////////////////////////4tW9/////wD///8A////AP///wD///8A////AP///wD///8A////APHq3Nbg1L//4tbB/+neyv/p3sr/6d/K/+nfyv/q38r/6t/L/+rfy//q38v/6uDM/+rgzP/q4Mz/5tvFof///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      <ToDoView Name="By start date">
+        <UI ActionFlt="4" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="9"/>
+        </Group>
+        <Sort Srt1="14" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="StartDateTime" ConditionName="exists" ConditionID="429"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1238"/>
+          <Column ID="3" Pos="3" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="By due date">
+        <UI ActionFlt="4" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="10"/>
+        </Group>
+        <Sort Srt1="4" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="DueDateTime" ConditionName="exists" ConditionID="429"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1221"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Created">
+        <UI ActionFlt="4">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="20" Asc="false"/>
+        </Group>
+        <Sort Srt1="-11" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1141"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="11" Pos="11" Width="180"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="Modified">
+        <UI ActionFlt="4">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="11" Asc="false"/>
+        </Group>
+        <Sort Srt1="-10" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1158"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="12" Pos="12" Width="180"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+      <ToDoView Name="By next alert">
+        <UI ActionFlt="4" UseAdvFlt="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="18"/>
+        </Group>
+        <Sort Srt1="16" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="Reminder" ConditionName="is true" ConditionID="310"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="1190"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="18" Pos="18" Width="131"/>
+          <Column ID="27" Pos="27" Width="22"/>
+        </Columns>
+      </ToDoView>
+    </ToDoView>
+  </ToDoViewsRoot>
+</MyLifeOrganized-xml>
